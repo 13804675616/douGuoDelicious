@@ -1,0 +1,42 @@
+
+		<div id="collection_box">
+			<div class="collection_header">
+
+				<a ui-sref="home.my" class="collection_return"></a>
+				<span>
+					<a class="collection_all">全部收藏</a>
+					<a class="collection_group">分组</a>
+				</span>
+				
+				
+			</div>
+			<div class="collection_clearfix"></div>
+			
+			<div class="collection_search">
+				<input type="text" placeholder="搜索"/>
+			</div>
+			
+			<div class="collection_items" ng-repeat="x in items">
+				
+				<div class="collection_item">
+					<dl>
+						<dt>
+							<img ng-src={{x.food_img}} />
+						
+							<span>已缓存</span>
+						</dt>
+						<dd>
+							<p class="collection_name">{{x.food_name}}</p>
+							<p class="collection_type">{{x.food_intro}}</p>
+							<p class="collection_place">{{x.user_id}}</p>
+							<p class="collection_collectNum">{{x.food_collect}}</p>
+						</dd>
+					</dl>
+				</div>
+				<div class="collection_clearfix"></div>
+			</div>
+			
+			
+			
+			
+		</div>

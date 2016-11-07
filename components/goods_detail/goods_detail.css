@@ -1,0 +1,382 @@
+.goods_detail {
+  background-color: #f5f1ee;
+  position: relative;
+}
+.top_goodsDetail {
+  background-color: #fdfdfd;
+  height: 1.16rem;
+  display: flex;
+  align-items: center;
+}
+.top_goodsDetail .back_goodsDetail {
+	display: inline-block;
+  width: 0.30666667rem;
+  height: 0.49333333rem;
+  background: url("../../images/big.png") no-repeat -0.38666667rem -2.92rem;
+  background-size: 2.66666667rem 13.33333333rem;
+  margin-left: 0.50666667rem;
+  margin-right: 3.18666667rem;
+}
+.top_goodsDetail .goodsDetail {
+  font-size: 0.45333333rem;
+  margin-right: 1.76rem;
+}
+.top_goodsDetail .addToCart {
+  width: 0.44rem;
+  height: 0.42666667rem;
+  background: url("../../images/goods_car.png") no-repeat;
+  background-size: 0.44rem 0.42666667rem;
+  margin-right: 0.96rem;
+  position: relative;
+}
+.top_goodsDetail .addToCart a{
+ display: inline-block;
+ width: 100%;
+}
+.top_goodsDetail .addToCart .goodscount {
+	/*display: none;*/
+  width: 0.42666667rem;
+  height: 0.42666667rem;
+  border-radius: 50%;
+  background-color: #f26422;
+  text-align: center;
+  line-height: 0.42666667rem;
+  position: absolute;
+  left: 0.42666667rem;
+  top: -0.13333333rem;
+  color: #ffffff;
+  font-size: 0.34666667rem;
+}
+.top_goodsDetail .share {
+  width: 0.41333333rem;
+  height: 0.41333333rem;
+  background: url("../../images/share.png") no-repeat;
+  background-size: 0.41333333rem 0.41333333rem;
+  margin-right: 0.42666667rem;
+}
+.goodsContent {
+  height: 13.68rem;
+  background-color: #ffffff;
+  margin-bottom: 0.26666667rem;
+}
+.goodsContent .goodImage {
+  height: 10rem;
+}
+.goodsContent .goodImage img {
+  height: 100%;
+  width: 100%;
+}
+.goodsContent div {
+  width: 9.49333333rem;
+  margin: 0 auto;
+  border-bottom: 1px solid #e2e2e2;
+}
+.goodsContent div:last-of-type {
+  border-bottom: none;
+}
+.goodsContent .goodsName {
+  font-size: 0.44rem;
+  line-height: 0.85333333rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.goodsContent .goodsPrice {
+  line-height: 0.85333333rem;
+  font-size: 0;
+}
+.goodsContent .goodsPrice span {
+  margin-right: 0.13333333rem;
+}
+.goodsContent .goodsPrice .newPrice {
+  color: #fa661c;
+  font-size: 0.48rem;
+}
+.goodsContent .goodsPrice .oldPrice {
+  color: #e1e1e1;
+  font-size: 0.34666667rem;
+  text-decoration: line-through;
+}
+.goodsContent .goodsPrice .pinkpage {
+  padding: 0.08rem 0.13333333rem;
+  border-radius: 0.12rem;
+  background-color: #fc691b;
+  font-size: 0.37333333rem;
+  color: #ffffff;
+}
+.goodsContent .goodsPrice .discount {
+  float: right;
+  width: 2.38666667rem;
+  height: 0.50666667rem;
+  border-radius: 0.24rem 0 0 0.24rem;
+  background-color: #fc691b;
+  font-size: 0.37333333rem;
+  color: #ffffff;
+  text-align: center;
+  line-height: 0.50666667rem;
+  margin-top: 0.24rem;
+  margin-right: -0.26666667rem;
+}
+.goodsContent .saleCount {
+  font-size: 0.37333333rem;
+  height: 0.85333333rem;
+  line-height: 0.85333333rem;
+}
+.goodsContent .saleCount .adr {
+  float: right;
+}
+.goodsContent .spec {
+  font-size: 0.4rem;
+  height: 0.85333333rem;
+  line-height: 0.85333333rem;
+  text-indent: 0.58666667rem;
+  background: url("../../images/goodsdetail_02.png") no-repeat 0 0.2rem;
+  background-size: 0.45333333rem;
+}
+.goodsIntroduce {
+  width: 100%;
+  height: 2.72rem;
+  font-size: 0.4rem;
+  padding: 0.21333333rem 0.24rem;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  margin-bottom: 0.26666667rem;
+}
+.common {
+  padding: 0 0.24rem;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  margin-bottom: 0.26666667rem;
+}
+.sendTo {
+  height: 1.14666667rem;
+  font-size: 0.42666667rem;
+  line-height: 1.14666667rem;
+}
+.sendTo span {
+  float: right;
+}
+.goodsComments {
+  font-size: 0;
+}
+.goodsComments > p {
+  height: 1.14666667rem;
+  line-height: 1.14666667rem;
+  border-bottom: 1px solid #e2e2e2;
+  font-size: 0.45333333rem;
+}
+.goodsComments > p .goodsGood {
+  float: right;
+}
+.goodsComments > p .goodsGood span {
+  color: #fc691b;
+}
+.goodsComments .goodsContent1 {
+  font-size: 0.42666667rem;
+}
+.goodsComments .goodsContent1 li {
+  padding: 0.45333333rem 0;
+  box-sizing: border-box;
+  border-bottom: 1px solid #e2e2e2;
+}
+.goodsComments .goodsContent1 li p:first-of-type > img {
+  width: 0.90666667rem;
+  height: 0.90666667rem;
+  vertical-align: middle;
+}
+.goodsComments .goodsContent1 li p:first-of-type .todayNew {
+  float: right;
+  margin-top: 0.16rem;
+}
+.goodsComments .goodsContent1 li p:first-of-type .goodsGood1{
+  float: right;
+  margin-top: 0.2rem;
+    margin-right: 0.4rem;
+}
+.goodsComments .goodsContent1 li p:first-of-type .goodsGood1 img {
+  margin-top: -0.2rem;
+  margin-right: 0.3rem;
+  vertical-align: middle;
+  width: 0.5rem;
+  height: 0.5rem;
+}
+.goodsComments .goodsContent1 li p:nth-of-type(2) {
+  line-height: 0.73333333rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.goodsComments .goodsContent1 li p:nth-of-type(3) img{
+  width: 1.7rem;
+  height: 1.7rem;
+  margin-right: 0.2rem;
+}
+.goodsComments > div {
+  height: 1.12rem;
+  line-height: 1.12rem;
+  text-align: center;
+  font-size: 0.42666667rem;
+  color: #e1e1e1;
+}
+.storeInfo {
+  font-size: 0;
+}
+.storeInfo > p {
+  height: 1.14666667rem;
+  line-height: 1.14666667rem;
+  border-bottom: 1px solid #e2e2e2;
+  font-size: 0.45333333rem;
+  border-bottom: 1px solid #eeeeee;
+}
+.storeInfo > p .todayNew {
+  float: right;
+  color: #3fba8c;
+}
+.storeInfo > p .goodsGood{
+	 margin-right: 0.2rem;
+	 height: 1.4rem;
+	 line-height: 1.4rem;
+  float: right;
+}
+
+.storeInfo > p .goodsGood img{
+	margin-top: -0.2rem;
+	width: 0.5rem;
+  height: 0.5rem;
+	vertical-align: middle;
+}
+.storeInfo dl {
+  width: 9.49333333rem;
+  margin: 0 auto;
+  height: 2.41333333rem;
+  border-bottom: 1px solid #eeeeee;
+  position: relative;
+}
+.storeInfo dl > div {
+  position: absolute;
+  right: 0;
+  top: 0.4rem;
+  width: 1.84rem;
+  height: 0.84rem;
+  border: 0.02666667rem solid #fa6916;
+  border-radius: 0.06666667rem;
+  color: #fa6916;
+  font-size: 0.42666667rem;
+  line-height: 0.84rem;
+  text-align: center;
+}
+.storeInfo dl dt {
+  float: left;
+  height: 2.41333333rem;
+  margin-right: 0.13333333rem;
+}
+.storeInfo dl dt span {
+  float: left;
+  width: 1.50666667rem;
+  height: 1.50666667rem;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% 100%;
+}
+.storeInfo dl dt span img{
+  width: 100%;
+  height: 100%;
+}
+.storeInfo dl dd {
+  float: left;
+  width: 6.66666667rem;
+  font-size: 0.42666667rem;
+  line-height: 0.64rem;
+}
+.storeInfo dl dd:first-of-type {
+  font-size: 0.48rem;
+  line-height: 0.88rem;
+}
+.storeInfo dl dd:last-of-type {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.storeInfo > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 1.10666667rem;
+  font-size: 0.42666667rem;
+}
+.storeInfo > div span {
+  color: #e1e1e1;
+}
+.storeInfo > div span span {
+  color: #000000;
+}
+.goodsService {
+  height: 2.73333333rem;
+  padding: 0.28rem;
+  box-sizing: border-box;
+}
+.goodsService img {
+  width: 100%;
+  height: 100%;
+}
+fieldset {
+  margin-top: 0.53333333rem;
+  height: 1.14666667rem;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+fieldset legend {
+  font-size: 0.42666667rem;
+  text-align: center;
+}
+.goodsButtom {
+  background-color: #f4f0ed;
+  padding: 0.32rem;
+  box-sizing: border-box;
+  font-size: 0;
+}
+.goodsButtom table {
+  width: 8.32rem;
+  margin: 0 auto;
+  font-size: 0.42666667rem;
+}
+.goodsButtom table tr {
+  height: 1.06666667rem;
+}
+.goodsButtom table tr td:nth-of-type(odd) {
+  color: #959190;
+  text-align: right;
+  width: 2.4rem;
+  border-right: 1px solid #e9e5e2;
+  border-bottom: 1px solid #e9e5e2;
+  padding-right: 0.26666667rem;
+  box-sizing: border-box;
+}
+.goodsButtom table tr td:nth-of-type(even) {
+  color: #000000;
+  border-bottom: 1px solid #e9e5e2;
+  text-indent: 0.26666667rem;
+}
+.goodsButtom .goods_detailButtom{
+  width: 100%;
+}
+.goodsButtom .goods_detailButtom img {
+  width: 100%;
+}
+.shopCar{
+	width: 2rem;
+	height: 2rem;
+	line-height: 2rem;
+	border-radius: 50%;
+	background-color: #fff;
+	text-align: center;
+  position: fixed;
+  bottom: 2rem;
+  right: 0.3rem;
+  border: 2px solid red;
+}
+
+/*点击时的动画*/
+

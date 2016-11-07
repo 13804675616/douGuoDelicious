@@ -1,0 +1,204 @@
+@import url("../../css/reset.css");
+.childMenu {
+	text-align: right;
+	position: absolute;
+	width: 3rem;
+	right: 1.3rem;
+	bottom: -0.1rem;
+}
+
+.todayNew_go img {
+	width: 0.7rem;
+}
+
+.todayNew_header {
+	z-index: 10;
+	background-color: white;
+	width: 100%;
+	height: 1.22392211rem;
+	line-height: 1.22392211rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 0.43115438rem;
+	font-family: "微软雅黑";
+	position: fixed;
+	top: 0;
+	left: 0;
+	border-bottom: 0.01390821rem solid #e6e6e6;
+}
+
+.todayNew_header .todayNew_return {
+	display: inline-block;
+	width: 0.29207232rem;
+	height: 0.54242003rem;
+	background: url(../../images/bgAll.png) no-repeat;
+	background-position: -0.41724618rem -2.92072323rem;
+	background-size: 2.78164117rem;
+	float: left;
+	margin-left: 0.54242003rem;
+}
+
+.todayNew_header .todayNew_go {
+	width: 0.53115438rem;
+	height: 0.53115438rem;
+	display: inline-block;
+	float: right;
+	margin-right: 0.54242003rem;
+	background: url(../../images/go.png) no-repeat;
+	background-size: 100% 100%;
+}
+
+.todayNew_clearfix {
+	height: 1.22392211rem;
+}
+
+.todayNew_intro .todayNew_date {
+	text-align: center;
+	width: 100%;
+	height: 2.12795549rem;
+	line-height: 2.12795549rem;
+	font-size: 0.52851182rem;
+	font-family: "黑体";
+}
+
+.todayNew_intro .todayNew_writer {
+	height: 0.69541029rem;
+	line-height: 0.69541029rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 0.36161335rem;
+	font-family: "微软雅黑";
+}
+
+.todayNew_intro .todayNew_writer img {
+	width: 0.69541029rem;
+	height: 0.69541029rem;
+	border-radius: 0.34770515rem;
+	margin-right: 0.29207232rem;
+}
+
+.todayNew_intro .todayNew_info {
+	height: 1.78rem !important;
+	line-height: 0.77885953rem !important;
+	font-family: "微软雅黑";
+	text-overflow: -o-ellipsis-lastline;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	display: -webkit-box;
+}
+
+.todayNew_cookbook {
+	width: 100%;
+}
+
+.todayNew_cookbook .todayNew_title {
+	height: 1.46036161rem;
+	line-height: 1.46036161rem;
+	text-align: center;
+	font-size: 0.38942976rem;
+	font-family: "微软雅黑";
+	font-weight: 600;
+}
+
+.todayNew_cookbook .todayNew_title span {
+	width: 0.50069541rem;
+	height: 100%;
+	display: inline-block;
+	text-decoration: line-through;
+}
+
+.todayNew_items {
+	width: 100%;
+}
+
+.todayNew_item {
+	width: 100%;
+}
+
+.todayNew_item .todayNew_picture {
+	width: 100%;
+	height: 5.98666667rem;
+	position: relative;
+}
+
+.todayNew_item .todayNew_picture img {
+	width: 100%;
+	height: 100%;
+}
+
+.todayNew_item .todayNew_picture p {
+	font-size: 0.26666667rem;
+	color: white;
+	text-indent: 5.33333333rem;
+	position: absolute;
+	bottom: 0.66666667rem;
+	right: 0.66666667rem;
+}
+
+.todayNew_item .todayNew_picture p img {
+	display: inline-block;
+	width: 0.30666667rem;
+	height: 0.22666667rem;
+}
+
+.todayNew_item .todayNew_picture p span {
+	margin-left: 0.13333333rem;
+	font-family: "微软雅黑";
+	font-weight: bold;
+}
+
+.todayNew_item .todayNew_intro {
+	width: 100%;
+	text-align: center;
+}
+
+.todayNew_item .todayNew_intro h1 {
+	height: 1.54666667rem;
+	line-height: 1.54666667rem;
+	font-size: 0.50666667rem;
+	font-family: "微软雅黑";
+}
+
+.todayNew_item .todayNew_intro .todayNew_writer {
+	height: 0.68rem;
+	line-height: 0.68rem;
+}
+
+.todayNew_item .todayNew_intro .todayNew_writer img {
+	display: inline-block;
+	width: 0.68rem;
+	height: 0.68rem;
+	vertical-align: middle;
+	border-radius: 0.33333333rem;
+}
+
+.todayNew_item .todayNew_intro .todayNew_writer span {
+	vertical-align: middle;
+	display: inline-block;
+	height: 0.68rem;
+	line-height: 0.68rem;
+	font-size: 0.34666667rem;
+	font-family: "微软雅黑";
+	color: #858585;
+}
+
+.todayNew_item .todayNew_intro .todayNew_info {
+	padding: 0.54666667rem 0.54666667rem 0 0.54666667rem;
+	font-size: 0.34666667rem;
+	color: #858585;
+	font-family: "微软雅黑";
+	height: 1.52rem;
+	line-height: 0.58666667rem;
+	overflow: hidden;
+	white-space: wrap;
+	text-overflow: ellipsis;
+}
+
+.todayNew_clearfix1 {
+	height: 0.40333797rem;
+	background-color: #f3f2f0;
+}

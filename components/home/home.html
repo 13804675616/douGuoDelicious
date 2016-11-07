@@ -1,0 +1,170 @@
+
+		<div ui-view>
+			<div id="home_box">
+				<!--头部搜索栏-->
+				<div class="home_header">
+					<a ui-sref="home.search_index" class="home_ser">
+						搜索菜谱、用户、商品
+					</a>
+					<a ui-sref="home.message">
+						<img src="./images/bell.png" />
+						<span>2</span>
+					</a>
+
+				</div>
+
+				<!--//注意banner里头的是可以左右滑动的，下面的橙色条会相应改变位置-->
+
+				<!--<div class="home_banner">-->
+				<!--轮播图-->
+				<!--从这里开始------------------------------------------------>
+				<div class="swiper-container slider home_banner">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<a  ng-click="toInfo(data[7].id)" ui-sref="home.home_menu">
+								<img ng-src={{data[7].food_img}} />
+								<p class="home_title1">今日学做{{data[7].food_name}}</p>
+								<p class="home_title2"><img ng-src={{data[7].user_img}} /><span>{{data[7].user_id}}</span></p>
+							</a>
+						</div>
+						<div class="swiper-slide">
+							<a  ng-click="toInfo(data[11].id)" ui-sref="home.home_menu">
+								<img ng-src={{data[11].food_img}} />
+								<p class="home_title1">今日学做{{data[11].food_name}}</p>
+								<p class="home_title2"><img ng-src={{data[11].user_img}} /><span>{{data[11].user_id}}</span></p>
+							</a>
+						</div>
+						<div class="swiper-slide">
+							<a  ng-click="toInfo(data[12].id)" ui-sref="home.home_menu">
+								<img ng-src={{data[12].food_img}} />
+								<p class="home_title1">今日学做{{data[12].food_name}}</p>
+								<p class="home_title2"><img ng-src={{data[12].user_img}} /><span>{{data[12].user_id}}</span></p>
+							</a>
+						</div>
+						<div class="swiper-slide">
+							<a  ng-click="toInfo(data[13].id)" ui-sref="home.home_menu">
+								<img ng-src={{data[13].food_img}} />
+								<p class="home_title1">今日学做{{data[13].food_name}}</p>
+								<p class="home_title2"><img ng-src={{data[13].user_img}} /><span>{{data[13].user_id}}</span></p>
+							</a>
+						</div>
+					</div>
+
+					<!--<div class="swiper-pagination"></div>-->
+					<div class="swiper-scrollbar"></div>
+					<span></span>
+				</div>
+				<!--从这里结束打发打发------------------------------------------------>
+
+				<!--</div>-->
+
+				<div class="home_menu">
+					<dl>
+						<dt>
+						<a ui-sref="home.todayNew" ng-click="toInfo1()"><img src="./images/todayNew.png"/></a>
+					</dt>
+						<dd>
+							<a ui-sref="home.todayNew" ng-click="toInfo1()">今日最新</a>
+						</dd>
+					</dl>
+					<dl>
+						<dt>
+						<a ui-sref="home.menu" ng-click="toInfo()"><img src="./images/menu.png"/></a>
+					</dt>
+						<dd>
+							<a ui-sref="home.menu" ng-click="toInfo()">精品菜单</a>
+						</dd>
+					</dl>
+					<dl>
+						<dt>
+						<a ui-sref="home.home_allKind"><img src="./images/sort.png"/></a>
+					</dt>
+						<dd>
+							<a ui-sref="home.home_allKind">全部分类</a>
+						</dd>
+					</dl>
+					<dl>
+						<dt>
+						<a href="##"><img src="./images/friend.png"/></a>
+					</dt>
+						<dd>好友动态</dd>
+					</dl>
+				</div>
+
+				<div class="home_clearfix"></div>
+
+				<div class="home_addAllInfo" ng-repeat="x in data">
+					<div class="home_popular" ng-if="x.exp">
+						<p style="display: none;">{{x.exp}}</p>
+						<div class="home_in">
+							<a ui-sref="home.today">
+								<!--<a href="##">-->
+								<img ng-src={{x.foods_img}} />
+								<!--</a>-->
+							</a>
+						</div>
+						<!--//今日吃什么-->
+						<a ng-click="toInfo(x.id)" ui-sref="home.today">
+							<div class="home_cover">
+
+								<p class="home_number">◇共{{x.foods_num}}◇</p>
+								<p class="home_date">
+									{{x.food_title}}
+									<!--<span class="home_month">10</span> 月
+									<span class="home_day">9</span> 日流行菜谱-->
+								</p>
+								<p class="home_writer">{{x.mana_id}}</p>
+
+							</div>
+						</a>
+
+					</div>
+
+					<div class="home_clearfix2"></div>
+
+					<!--、、今天吃什么下面-->
+					<div class="home_items" ng-if="x.exp1">
+						<p style="display: none;">{{x.exp1}}</p>
+						<div class="home_item" ng-click="toInfo(x.id)" ui-sref="home.home_menu">
+							<div class="home_picture">
+								<img ng-src={{x.food_img}} />
+								<p class="home_collect">
+									<img src="./images/look.png" /><span>{{x.food_look}}</span>&nbsp;&nbsp;
+									<img src="./images/collect.png" /><span>{{x.food_collect}}</span>
+								</p>
+							</div>
+
+							<div class="home_clearfix"></div>
+
+							<div class="home_intro">
+								<h1>{{x.food_name}}</h1>
+								<p class="home_writer"><img ng-src={{x.user_img}} /><span>{{x.user_id}}</span></p>
+								<p class="home_info">{{x.food_intro}}
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="home_clearfix3"></div>
+
+			</div>
+		</div>
+
+	<script type="text/javascript">
+		$(function() {
+			//轮播方法
+			function slider() {
+				var mySwiper = new Swiper('.swiper-container', {
+					autoplay: 2000, //可选选项，自动滑动
+					scrollbar: '.swiper-scrollbar',
+					scrollbarHide: false,
+					onAutoplayStop: function(swiper) {
+						swiper.startAutoplay();
+					}
+				});
+			}
+			slider();
+		})
+	</script>

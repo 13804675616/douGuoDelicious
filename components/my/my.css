@@ -1,0 +1,148 @@
+@import "../../css/reset.css";
+
+.my_box {
+  font-family: "黑体";
+  font-size: 0.37333333rem;
+  width: 100%;
+  background-color: #fff;
+}
+.my_top{
+	width: 100%;
+  text-align: center;
+  height: 1.14666667rem;
+  line-height: 1.14666667rem;
+  border-bottom: 1px solid #e6e6e6;
+  background-color: #fff;
+  position: fixed;
+  left: 0;
+  top: 0;
+  font-size:0.41333333rem;
+}
+.my_top a {
+	display: inline-block;
+ 
+}
+.my_top  a:first-of-type {
+ background: url("../../images/my_set.png") no-repeat center;
+  background-size: 0.41333333rem 0.44rem;
+  background-color: #fdfdfd;
+ width: 0.51333333rem;
+  height: 0.51333333rem;
+  float: left;
+  margin-left: 0.52rem;
+  margin-top: 0.32rem;
+}
+.my_top  a:last-of-type {
+	 background: url("../../images/msg.png") no-repeat center;
+  background-size: 0.41333333rem 0.44rem;
+  /*background-position: 0 -1.86666667rem;*/
+  float: right;
+  margin-right: 0.46666667rem;
+  margin-top: 0.34666667rem;
+  width: 0.51333333rem;
+  height: 0.51333333rem;
+}
+.my_info {
+  width: 100%;
+  height: 3.02666667rem;
+  padding: 0.38666667rem 0.42666667rem 0.77333333rem 0.4rem;
+  box-sizing: border-box;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  background: url("../../images/my_more.png") no-repeat 9.38666667rem center;
+  background-size: 0.21333333rem 0.4rem;
+}
+.my_info .my_name {
+  font-size: 0.4rem;
+  margin-top: 0.10666667rem;
+}
+.my_info .my_phone {
+  color: #a6a6a6;
+  font-size: 0.4rem;
+  margin-top: 0.37333333rem;
+}
+.my_info .my_record {
+  margin-top: 0.13333333rem;
+  font-size: 0.4rem;
+}
+.my_info .my_record span {
+  color: #c67750;
+  margin-left: 0.12rem;
+  padding-right: 0.30666667rem;
+  border-right: 1px solid #8b8b8b;
+}
+.my_info .my_record span:last-of-type {
+  border: none;
+}
+.my_info img {
+  float: left;
+  width: 1.86666667rem;
+  height: 1.86666667rem;
+  margin-right: 0.44rem;
+}
+.my_allOrder {
+  width: 100%;
+  background-color: #f3f2f0;
+  height: 5.4rem;
+  padding-top: 0.34666667rem;
+  box-sizing: border-box;
+}
+.my_allOrder > div {
+  height: 4.66666667rem;
+  background-color: #fff;
+  padding-left: 0.4rem;
+}
+.my_allOrder h6 {
+  padding: 0.48rem 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 0.37333333rem;
+  font-weight: normal;
+  background: url("../../images/my_more.png") no-repeat 9.06666667rem center;
+  background-size: 0.21333333rem 0.4rem;
+}
+.my_allOrder h6:last-of-type {
+  margin-top: -0.13333333rem;
+}
+.my_allOrder h6 span {
+  float: right;
+  margin-right: 0.66666667rem;
+  color: #a8a8a8;
+}
+.my_allOrder .my_mainIcon {
+  padding: 0.44rem 0;
+  border-bottom: 1px solid #e2e2e2;
+  border-top: 1px solid #e2e2e2;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.my_allOrder .my_mainIcon a {
+  display: inline-block;
+  text-align: center;
+  width: 2.40666667rem;
+  float: left;
+}
+.my_allOrder .my_mainIcon a img {
+  width: 0.58666667rem;
+  height: 0.52rem;
+  margin-bottom: 0.32rem;
+}
+.my_menus li {
+  border-bottom: 1px solid #e2e2e2;
+  padding: 0.46666667rem 0 0.46666667rem 0.42666667rem;
+  box-sizing: border-box;
+  background: url("../../images/my_more.png") no-repeat 9.38666667rem center;
+  background-size: 0.21333333rem 0.4rem;
+  &:first-of-type{
+  	padding: 0;
+  	width: 100%;
+  }
+  a{
+  	display: inline-block;
+  	width: 10rem;
+
+  }
+}

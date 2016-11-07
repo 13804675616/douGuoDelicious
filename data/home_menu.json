@@ -1,0 +1,2371 @@
+{
+	"menu_food": [
+		{
+			"exp":"gather",
+			"exp1":"",
+			"id":"0110",
+			"foods_img":"http://cp2.douguo.net/upload/caiku/c/d/7/500x300_cd6e091afc90db67d890cb8fde856477.jpg",
+			"food_title": "今天吃什么？10月11日流行菜谱",
+			"mana_id": "大大汪汪",
+			"mana_img":"http://tx2.douguo.net/upload/photo/f/1/0/70_u51469065613326024159.jpeg",
+			"food_introduce": "还在烦恼今天吃什么的问题吗？最近流行的菜都有哪些？大家都在吃什么好吃的？当季热门的食材怎么做更好吃？看这里，新鲜流行菜谱推荐给你。每天发布的最新菜谱，都有机会进菜单，推上首页！还有可能成为菜单封面成为今日最佳哦～你做的好吃的被更多人看到，下一个引领美食潮流的人就是你！",
+			"foods_num":"6道菜谱",
+			"good_hot":[
+				{
+					"id":"0008",
+				"food_img": "http://cp2.douguo.net/upload/caiku/f/3/1/400x300_f3e3bf61d0b1b6ea9ce5f901d8ec0b71.jpg",
+				"food_look": "49",
+				"food_collect": "9",
+				"food_more":"这道菜最大的特殊就是可爱，受到众多MM的喜爱。可爱的颜色，可爱的样子",
+				"users_img":"../../images/user_img.jpg",
+				"user_name":"琪琪",
+				"food_name":"草莓虾滑"
+				},
+				{
+				"id":"0009",
+				"food_img": "http://cp2.douguo.net/upload/caiku/0/b/8/400x300_0be2739c6a6a69f4cc72349a08374308.jpg",
+				"food_look": "5676",
+				"food_collect": "25",
+				"food_more":"煎饼盒子，用煎的做法快手香嫩又好吃，当做早餐再合适不过啦~",
+				"users_img":"../../images/a.jpg",
+				"user_name":"FC美食专家",
+				"food_name":"煎饼盒子"
+				},
+				{
+					"id":"0009",
+				"food_img": "http://cp2.douguo.net/upload/caiku/e/5/5/400x300_e52897374583d130dbe920b6c41313c5.jpg",
+				"food_look": "100",
+				"food_collect": "20",
+				"food_more":"腊肠香菇焖饭x炒蛋便当，简单好吃到爆，深受大家的欢迎",
+				"users_img":"../../images/b.jpg",
+				"user_name":"上班族",
+				"food_name":"腊肠香菇焖饭"
+				},
+				{
+					"id":"0009",
+				"food_img": "http://cp2.douguo.net/upload/caiku/e/5/4/400x300_e5b8aba0736122f8a58d9eda7a4675f4.jpg",
+				"food_look": "388",
+				"food_collect": "45",
+				"food_more":"简单好吃的蛋糕，形状好看，样子可爱，让人看着就很有食欲，好吃",
+				"users_img":"../../images/c.jpg",
+				"user_name":"杨小娥",
+				"food_name":"小蛋糕"
+				},
+				{
+					"id":"0009",
+				"food_img": "http://cp2.douguo.net/upload/caiku/f/0/7/400x300_f03a5121f10b3fa7cadda94e7c767967.jpg",
+				"food_look": "123",
+				"food_collect": "45",
+				"food_more":"我家宝宝这几天总跟我提要吃蛋糕，想着周末来款简单容易零失败的小蛋糕吧！家人方便吃，也方便保存。",
+				"users_img":"../../images/d.jpg",
+				"user_name":"手揉女汉子",
+				"food_name":"杏仁蛋糕"
+				},{
+					"id":"0009",
+				"food_img": "http://cp2.douguo.net/upload/caiku/9/c/e/400x300_9c37476d3df3b195023657ff46005a0e.jpeg",
+				"food_look": "345",
+				"food_collect": "66",
+				"food_more":"广式香肠焖饭，味道棒极了",
+				"users_img":"../../images/e.jpg",
+				"user_name":"狸小胖",
+				"food_name":"广式香肠焖饭"
+				}
+
+				],
+			"foods_gather":[
+				{
+					"id":"0001",
+					"food_img": "http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"food_look": "100人浏览",
+					"food_collect": "20人收藏",
+					"food_more":"戚风加了柠檬丝，口感清爽，没腥味。这道菜最大的特殊就是可爱，受到众多MM的喜爱",
+					"users_img":"http://cp2.douguo.net/upload/caiku/e/f/a/600_ef81b035dc0f9ae8e89aa04dcf4a075a.jpg",
+					"user_name":"手揉女汉子",
+					"food_name":"柠檬6寸加高戚风",
+					"cou":"65",
+					"des":"今天吃什么？10.16日流行菜谱"
+				},
+				{
+					"id":"00014",
+					"food_img": "http://cp2.douguo.net/upload/caiku/e/f/a/600_ef81b035dc0f9ae8e89aa04dcf4a075a.jpg",
+					"food_look": "5676人浏览",
+					"food_collect": "25人收藏",
+					"food_more":"买了冷冻巴沙鱼柳，用煎的做法快手香嫩又好吃，当做早餐再合适不过啦~",
+					"users_img":"http://tx2.douguo.net/upload/photo/f/8/4/70_u90220649629766183737.jpg",
+					"user_name":"亲爱的兔兔",
+					"food_name":"莳萝煎巴沙鱼",
+					"cou":"35",
+					"des":"今天吃什么？10.12日流行菜谱"
+				},
+				{
+					"id":"0002",
+					"food_img": "http://cp2.douguo.net/upload/caiku/a/8/d/600_a823659249cf0493c5d162106cee8abd.jpg",
+					"food_look": "100人浏览",
+					"food_collect": "20人收藏",
+					"food_more":"想想看，你用什么东西量时间？一只漏沙里细沙流完是一段时间。一炷馨香袅袅烧完是一段时间。",
+					"users_img":"http://cp2.douguo.net/upload/caiku/e/f/a/600_ef81b035dc0f9ae8e89aa04dcf4a075a.jpg",
+					"user_name":"一块烘焙",
+					"food_name":"日式轻乳酪蛋糕",
+					"cou":"99",
+					"des":"今天吃什么？10.5日流行菜谱"
+				},
+				{
+					"id":"00013",
+					"food_img": "http://cp2.douguo.net/upload/caiku/3/8/6/600_38ab869dae2e4104b9ae135ab5c18826.jpg",
+					"food_look": "5676人浏览",
+					"food_collect": "25人收藏",
+					"food_more":"中秋节做月饼剩下很多边角料，充分利用起来，就是一道可口的零食。~",
+					"users_img":"http://tx2.douguo.net/upload/photo/f/8/4/70_u90220649629766183737.jpg",
+					"user_name":"玉米妈妈",
+					"food_name":"黑芝麻花生糖",
+					"cou":"85",
+					"des":"今天吃什么？9.8日流行菜谱"
+				},
+				{
+					"id":"00012",
+					"food_img": "http://cp2.douguo.net/upload/caiku/5/4/a/500x300_548f1b0fe14321c8ca2380b119546e5a.jpg",
+					"food_look": "100人浏览",
+					"food_collect": "20人收藏",
+					"food_more":"前几天，亲手做了花生酱,昨晚做了土司。今天下午茶，就是这道西多士了。",
+					"users_img":"http://tx2.douguo.net/upload/photo/8/8/5/70_88202b40df079edaa6da8e15b3555d65.jpg",
+					"user_name":"蜜桃爱烘焙",
+					"food_name":"西多士 亲研花生酱",
+					"cou":"85",
+					"des":"今天吃什么？10.4日流行菜谱"
+				},
+				{
+					"id":"0007",
+					"food_img": "http://cp2.douguo.net/upload/caiku/5/8/e/600_58b4853cd3f030998279c906199d4e3e.jpg",
+					"food_look": "5676人浏览",
+					"food_collect": "25人收藏",
+					"food_more":"这道汤清甜好喝，茶树菇和鸡搭配好吃，值得尝试",
+					"users_img":"http://tx2.douguo.net/upload/photo/3/8/7/70_u15864495525083101656.jpg",
+					"user_name":"预期麻麻",
+					"food_name":"茶树菇鸡汤"
+				}
+
+			]
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"0001",
+			"food_name": "可乐鸡翅",
+			"food_img": "http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+			"food_look": "430人浏览",
+			"food_collect": "175人收藏",
+			"food_do": "2687人做过",
+			"food_intro": "这道菜做法简单、味道鲜美、色泽艳丽、咸甜适中、入口嫩滑，既保留了可乐的香气又让鸡翅裹上了诱人焦糖色，深爱大家喜欢。尤其是年轻人，更喜欢做给心爱的人吃。",
+			"user_id": "乐友厨房",
+			"user_img":"http://tx2.douguo.net/upload/photo/4/b/2/70_u72964730248960125314.jpeg",
+			"food_diffi": "切墩(初级)",
+			"food_time": "10-30分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-10 23:38:22",
+					"content": "帮同事代购的，好评！",
+					"title": "【买即赠蜂蜜唇膏】舌尖上Honey 新疆黑蜂山花蜂巢蜜 280g/盒",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u32134153280492",
+					"nickname": "咸蛋超人14",
+					"userimage": "http://tx2.douguo.net/upload/photo/1/f/9/70_u32134153280492225100.jpg"
+				},
+				{
+					"createtime": "2016-10-10 23:37:54",
+					"content": "帮同事代购的，好评！",
+					"title": "【买即赠蜂蜜唇膏】舌尖上Honey 新疆黑蜂山花蜂巢蜜 280g/盒",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u32134153280492",
+					"nickname": "咸蛋超人14",
+					"userimage": "http://tx2.douguo.net/upload/photo/1/f/9/70_u32134153280492225100.jpg"
+				},
+				{
+					"createtime": "2016-10-10 23:15:14",
+					"content": "好评",
+					"title": "【买即赠蜂蜜唇膏】舌尖上Honey 新疆黑蜂山花蜂巢蜜 280g/盒",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u32134153280492",
+					"nickname": "咸蛋超人14",
+					"userimage": "http://tx2.douguo.net/upload/photo/1/f/9/70_u32134153280492225100.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "鸡翅",
+					"material_much": "十只",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "可乐",
+					"material_much": "300ml",
+					"more_id": "9424742",
+					"more_name":"绿百沃优选专营店",
+					"more_img":"http://i1.douguo.net//upload/store/b/9/1/140_b9f75e9b8764d989437a856eef1b0e21.jpg",
+					"price": 5,   
+					"ori_price": 8
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/7/d/7/400_7d3afaa33e4588433a1d618a263f82b7.jpg",
+					"intro": "1.准备食材",
+					"num":"1"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/8/1/400_889dee3dca2ee1b1c5601becc37d31b1.jpg",
+					"intro": "2.将鸡翅放到水中焯一下捞出备用",
+					"num":"2"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/7/7/400_87b54737e619f48c4087e162eb6386e7.jpg",
+					"intro": "3.锅中少放一点点油，然后将鸡翅放锅中，小火煎至表面金黄。",
+					"num":"3"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/2/1/f/400_210375ba918d71279846e81cf772ea8f.jpg",
+					"intro": "4.把姜片、八角放入锅中，煸炒出香味。然后把可乐倒入锅中，再加少许酱油、盐提味，大火烧开后转小火炖15分钟。",
+					"num":"4"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/e/c/c/400_ec4c78b9d55ca9eb711ce8eaee29eb7c.jpg",
+					"intro": "5.把姜片、八角放入锅中，煸炒出香味。然后把可乐倒入锅中，再加少许酱油、盐提味，大火烧开后转小火炖15分钟。",
+					"num":"5"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/7/9/400_8799e6fe129812a27bc867d0a0524389.jpg",
+					"intro": "6.装盘上桌即可。",
+					"num":"6"
+				}
+			],
+				"food_remark":"1、 关于放多少可乐。这个主要看自己的口味，如果你喜欢甜味重一点的，可以多放一些可乐。如果你喜欢淡一点的口味，可以少放一些，还可以适当加一些水。2、 可乐的多少，还直接关系到成品的色泽。可乐多，可以不放酱油。相反，可用酱油调色。3、 收汁的时候，一定要不停的翻炒。不然会糊锅。大家在烹饪这道菜的时候，有什么问题都可以加微信 “leyou517”问询。我会一一认真回答。",
+				"add_date":"－ 2015-05-19 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"0002",
+			"food_name": "日式轻乳酪蛋糕",
+			"food_img": "http://cp2.douguo.net/upload/caiku/a/8/d/600_a823659249cf0493c5d162106cee8abd.jpg",
+			"food_look": "41人浏览",
+			"food_collect": "2人收藏",
+			"food_do": "237人做过",
+			"food_intro": "▼想想看，你用什么东西量时间？一只漏沙里细沙流完是一段时间。一炷馨香袅袅烧完是一段时间。钟表的指针滴答行走一圈，是一段时间。还有呢？▼作为妈妈的我则用孩子的每一顿早餐量时间。叫醒梦中的孩子，老公去洗漱，我在厨房里拾掇健康的早餐。这一天便从此刻开始。一声：早餐好了。孩子老公便一齐迈向餐桌。▼对于孩子，不仅要考虑食物的营养以及孩子的消化功能。口感和色彩当然也会影响孩子的心情。所以鸡蛋，牛奶，饺子，粥？当然，还有自己亲手做的烘焙蛋糕！▼这次做的是一种家庭面包——轻奶酪蛋糕。做好的蛋糕，看上去简单清雅！而口感更是清爽绵软，细腻丝滑。孩子和老公吃了便连夸好赞！脸上洋溢的微笑让这一天有了明媚的希望！▼所以从她吃完早餐后的挥手再见到傍晚的放学归家，这就是一天，她慢慢长大的一天！",
+			"user_id": "一块烘焙",
+			"user_img":"http://tx2.douguo.net/upload/photo/4/b/2/70_u72964730248960125314.jpeg",
+			"food_diffi": "和面(初级)",
+			"food_time": "50-80分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-11 10:19:40",
+					"content": "挺好的",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u83126092207283",
+					"nickname": "独孤云",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-11 06:59:45",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u84381414720552",
+					"nickname": "桐桦",
+					"userimage": "http://tx2.douguo.net/upload/photo/5/b/2/70_u84381414720552211842.jpg"
+				},
+				{
+					"createtime": "2016-10-10 23:15:36",
+					"content": "超级美味的牛排，量足，肉质很鲜美！光吃了，忘记拍照了",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u75982917936929",
+					"nickname": "心情窝窝",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-10 22:25:07",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u38051396390821",
+					"nickname": "豆粉0513969",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "奶油芝士",
+					"material_much": "150克",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}, {
+					"material_name": "黄油",
+					"material_much": "30克",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}, {
+					"material_name": "细砂糖 ",
+					"material_much": "45克",
+					"more_id": "9659976",
+					"more_name":"欣和官方旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/a/8/d/600_a823659249cf0493c5d162106cee8abd.jpg",
+					"price": 19,   
+					"ori_price": 48
+				}, {
+					"material_name": "柠檬汁",
+					"material_much": "几滴",
+					"more_id": "18052177",
+					"more_name":"柠檬专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 2,   
+					"ori_price": 18
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/3/7/2/400_378b7bef59be7227c884c6dfe811ca52.jpg",
+					"intro": "1.准备食材"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/3/a/8/400_3a2e8b1e03baadceb2063fa9ab632938.jpg",
+					"intro": "2.奶油奶酪放置常温准备"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/4/6/d/400_4648c1da8f94e1949a8fd16bd8ff3e9d.jpg",
+					"intro": "3.加入牛奶，搅拌至无颗粒顺滑状态。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/e/8/400_0e0516d8982b6ebe296a209c6f880248.jpg",
+					"intro": "4.加入黄油，搅拌至黄油融化，顺滑无颗粒。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/6/b/400_76c8054eab03ca080a8c7a141c29949b.jpg",
+					"intro": "5.分次加入蛋黄搅拌均匀。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/d/a/3/400_da91ce37f3343255945af1c4358951d3.jpg",
+					"intro": "6.筛入低筋面粉。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/d/d/2/400_dde434c5455b5448263e8dc2e44f1162.jpg",
+					"intro": "7.蛋白加入几滴柠檬汁，分三次加入细砂糖。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/a/8/400_0afe214c86a121c991f4d119d8dd7358.jpg",
+					"intro": "8.蛋白打发至湿性发泡。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/6/d/b/400_6df163507cba6a5fae2694061e0fcfeb.jpg",
+					"intro": "9.将打发好的蛋白取三分之一加入到蛋黄奶酪糊，翻拌均匀。再将将拌好的蛋白蛋黄奶酪糊倒回剩下的蛋白里，翻拌均匀。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/9/d/4/400_9d58ccc7a2051fba9c71d928e66060b4.jpg",
+					"intro": "10.将乳酪芝士糊倒入模具中，在桌面上轻震几下，震出气泡。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/2/3/400_82042b34d83ef0a8f7f06fbe66ea76c3.jpg",
+					"intro": "11.放入预热好的烤箱中下层，在最底下放一个装了一半水的烤盘。220度烤10分钟，，再140度烤50分钟，烤完后不要马上拿出来，在烤箱内焖30分钟。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/8/5/400_88c03e5aa99a4973d9f869675c007a75.jpg",
+					"intro": "12.成品图。"
+				}
+			],
+			"food_remark":"关于芝士蛋糕更多故事与知识，还有本食谱的制作技巧，都在一块烘焙上可查看。",
+			"add_date":"－ 发布于2016-10-11 －"
+		},
+		{
+			"exp":"gather",
+			"exp1":"",
+			"id":"0111",
+			"foods_img":"http://cp2.douguo.net/upload/caiku/5/4/a/500x300_548f1b0fe14321c8ca2380b119546e5a.jpg",
+			"food_title": "烹饪必备三十六计",
+			"mana_id": "soly。创建",
+			"mana_img":"http://tx2.douguo.net/upload/photo/3/c/3/70_u65435752195444145233.jpeg",
+			"food_introduce": "还在烦恼今天吃什么的问题吗？最近流行的菜都有哪些？大家都在吃什么好吃的？当季热门的食材怎么做更好吃？看这里，新鲜流行菜谱推荐给你。每天发布的最新菜谱，都有机会进菜单，推上首页！还有可能成为菜单封面成为今日最佳哦～你做的好吃的被更多人看到，下一个引领美食潮流的人就是你！",
+			"foods_num":"10道菜谱",
+			"foods_gather":[
+				{
+					"id":"0001",
+					"food_img": "http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"food_look": "100人浏览",
+					"food_collect": "20人收藏",
+					"food_more":"戚风加了柠檬丝，口感清爽，没腥味。这道菜最大的特殊就是可爱，受到众多MM的喜爱",
+					"users_img":"http://cp2.douguo.net/upload/caiku/e/f/a/600_ef81b035dc0f9ae8e89aa04dcf4a075a.jpg",
+					"user_name":"手揉女汉子",
+					"food_name":"柠檬6寸加高戚风",
+					"cou":"65",
+					"des":"今天吃什么？10.16日流行菜谱"
+				},
+				{
+					"id":"00014",
+					"food_img": "http://cp2.douguo.net/upload/caiku/e/f/a/600_ef81b035dc0f9ae8e89aa04dcf4a075a.jpg",
+					"food_look": "5676人浏览",
+					"food_collect": "25人收藏",
+					"food_more":"买了冷冻巴沙鱼柳，用煎的做法快手香嫩又好吃，当做早餐再合适不过啦~",
+					"users_img":"http://tx2.douguo.net/upload/photo/f/8/4/70_u90220649629766183737.jpg",
+					"user_name":"亲爱的兔兔",
+					"food_name":"莳萝煎巴沙鱼",
+					"cou":"35",
+					"des":"今天吃什么？10.12日流行菜谱"
+				},
+				{
+					"id":"0002",
+					"food_img": "http://cp2.douguo.net/upload/caiku/a/8/d/600_a823659249cf0493c5d162106cee8abd.jpg",
+					"food_look": "100人浏览",
+					"food_collect": "20人收藏",
+					"food_more":"想想看，你用什么东西量时间？一只漏沙里细沙流完是一段时间。一炷馨香袅袅烧完是一段时间。",
+					"users_img":"http://cp2.douguo.net/upload/caiku/e/f/a/600_ef81b035dc0f9ae8e89aa04dcf4a075a.jpg",
+					"user_name":"一块烘焙",
+					"food_name":"日式轻乳酪蛋糕",
+					"cou":"99",
+					"des":"今天吃什么？10.5日流行菜谱"
+				},
+				{
+					"id":"00013",
+					"food_img": "http://cp2.douguo.net/upload/caiku/3/8/6/600_38ab869dae2e4104b9ae135ab5c18826.jpg",
+					"food_look": "5676人浏览",
+					"food_collect": "25人收藏",
+					"food_more":"中秋节做月饼剩下很多边角料，充分利用起来，就是一道可口的零食。~",
+					"users_img":"http://tx2.douguo.net/upload/photo/f/8/4/70_u90220649629766183737.jpg",
+					"user_name":"玉米妈妈",
+					"food_name":"黑芝麻花生糖",
+					"cou":"85",
+					"des":"今天吃什么？9.8日流行菜谱"
+				},
+				{
+					"id":"00012",
+					"food_img": "http://cp2.douguo.net/upload/caiku/5/4/a/500x300_548f1b0fe14321c8ca2380b119546e5a.jpg",
+					"food_look": "100人浏览",
+					"food_collect": "20人收藏",
+					"food_more":"前几天，亲手做了花生酱,昨晚做了土司。今天下午茶，就是这道西多士了。",
+					"users_img":"http://tx2.douguo.net/upload/photo/8/8/5/70_88202b40df079edaa6da8e15b3555d65.jpg",
+					"user_name":"蜜桃爱烘焙",
+					"food_name":"西多士 亲研花生酱",
+					"cou":"85",
+					"des":"今天吃什么？10.4日流行菜谱"
+				},
+				{
+					"id":"0007",
+					"food_img": "http://cp2.douguo.net/upload/caiku/5/8/e/600_58b4853cd3f030998279c906199d4e3e.jpg",
+					"food_look": "5676人浏览",
+					"food_collect": "25人收藏",
+					"food_more":"这道汤清甜好喝，茶树菇和鸡搭配好吃，值得尝试",
+					"users_img":"http://tx2.douguo.net/upload/photo/3/8/7/70_u15864495525083101656.jpg",
+					"user_name":"预期麻麻",
+					"food_name":"茶树菇鸡汤"
+				}
+
+			]
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"0003",
+			"food_name": "可乐鸡翅",
+			"food_img": "http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+			"food_look": "302人浏览",
+			"food_collect": "77人收藏",
+			"food_do": "2687人做过",
+			"food_intro": "这道菜做法简单、味道鲜美、色泽艳丽、咸甜适中、入口嫩滑，既保留了可乐的香气又让鸡翅裹上了诱人焦糖色，深爱大家喜欢。尤其是年轻人，更喜欢做给心爱的人吃。",
+			"user_id": "乐友厨房",
+			"user_img":"http://tx2.douguo.net/upload/photo/4/b/2/70_u72964730248960125314.jpeg",
+			"food_diffi": "切墩(初级)",
+			"food_time": "10-30分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-11 10:19:40",
+					"content": "挺好的",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u83126092207283",
+					"nickname": "独孤云",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-11 06:59:45",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u84381414720552",
+					"nickname": "桐桦",
+					"userimage": "http://tx2.douguo.net/upload/photo/5/b/2/70_u84381414720552211842.jpg"
+				},
+				{
+					"createtime": "2016-10-10 23:15:36",
+					"content": "超级美味的牛排，量足，肉质很鲜美！光吃了，忘记拍照了",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u75982917936929",
+					"nickname": "心情窝窝",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-10 22:25:07",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u38051396390821",
+					"nickname": "豆粉0513969",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "奶油芝士",
+					"material_much": "150克",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}, {
+					"material_name": "黄油",
+					"material_much": "30克",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}, {
+					"material_name": "细砂糖 ",
+					"material_much": "45克",
+					"more_id": "9659976",
+					"more_name":"欣和官方旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/a/8/d/600_a823659249cf0493c5d162106cee8abd.jpg",
+					"price": 19,   
+					"ori_price": 48
+				}, {
+					"material_name": "柠檬汁",
+					"material_much": "几滴",
+					"more_id": "18052177",
+					"more_name":"柠檬专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/7/d/7/400_7d3afaa33e4588433a1d618a263f82b7.jpg",
+					"intro": "1.准备食材"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/8/1/400_889dee3dca2ee1b1c5601becc37d31b1.jpg",
+					"intro": "2.将鸡翅放到水中焯一下捞出备用"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/7/7/400_87b54737e619f48c4087e162eb6386e7.jpg",
+					"intro": "3.锅中少放一点点油，然后将鸡翅放锅中，小火煎至表面金黄。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/2/1/f/400_210375ba918d71279846e81cf772ea8f.jpg",
+					"intro": "4.把姜片、八角放入锅中，煸炒出香味。然后把可乐倒入锅中，再加少许酱油、盐提味，大火烧开后转小火炖15分钟。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/e/c/c/400_ec4c78b9d55ca9eb711ce8eaee29eb7c.jpg",
+					"intro": "5.把姜片、八角放入锅中，煸炒出香味。然后把可乐倒入锅中，再加少许酱油、盐提味，大火烧开后转小火炖15分钟。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/7/9/400_8799e6fe129812a27bc867d0a0524389.jpg",
+					"intro": "6.装盘上桌即可。"
+				}
+			],
+			"food_remark":"1、 关于放多少可乐。这个主要看自己的口味，如果你喜欢甜味重一点的，可以多放一些可乐。如果你喜欢淡一点的口味，可以少放一些，还可以适当加一些水。2、 可乐的多少，还直接关系到成品的色泽。可乐多，可以不放酱油。相反，可用酱油调色。3、 收汁的时候，一定要不停的翻炒。不然会糊锅。大家在烹饪这道菜的时候，有什么问题都可以加微信 “leyou517”问询。我会一一认真回答。",
+			"add_date":"－ 2015-05-19 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"0004",
+			"food_name": "电饭锅版盐焗鸡",
+			"food_img": "http://cp2.douguo.net/upload/caiku/d/8/2/600_d89bed5c55a88337177596052a108722.jpeg",
+			"food_look": "8119人浏览",
+			"food_collect": "667人收藏",
+			"food_do": "6人做过",
+			"food_intro": "昨晚做了一道超级简单方便的菜：电饭锅版盐焗鸡，发到我们吃货群，没想到反响热烈，竟然引发了一场盐焗鸡大赛，选手们激情澎湃，已经纷纷做好准备，购买食材，跃跃欲试了。^_^为此，我赶紧写下一个详尽的食谱，把心得体会分享给大家，一起做起来吧，棒棒的盐焗鸡，不好吃不要钱，哈哈。",
+			"user_id": "漂泊的湖",
+			"user_img":"http://tx2.douguo.net/upload/photo/0/5/5/70_u75781969739109181156.jpg",
+			"food_diffi": "切墩(初级)",
+			"food_time": "30-60分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-10 06:48:09",
+					"content": "还行，太甜了，就是有点疑问，不是介绍新疆的蜜吗，怎么从常州发货？送的杯子手柄断了",
+					"title": "舌尖上Honey 新疆黑蜂山花蜂巢蜜 280g/盒",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u58224583679769",
+					"nickname": "维尼熊鸡",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-09 19:54:37",
+					"content": "好评",
+					"title": "舌尖上Honey 新疆黑蜂山花蜂巢蜜 280g/盒",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u98740494408114",
+					"nickname": "梦想努力猪",
+					"userimage": "http://tx2.douguo.net/upload/photo/9/e/a/70_u98740494408114061325.jpg"
+				},
+				{
+					"createtime": "2016-10-06 23:39:08",
+					"content": "挺好的，但是不知道是哪里漏蜜了，包装盒外都有",
+					"title": "舌尖上Honey 新疆黑蜂山花蜂巢蜜 280g/盒",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u63518222259806",
+					"nickname": "zitashan",
+					"userimage": "http://tx2.douguo.net/upload/photo/c/b/3/70_u63518222259806193640.jpg"
+				},
+				{
+					"createtime": "2016-10-06 21:45:40",
+					"content": "好评",
+					"title": "舌尖上Honey 新疆黑蜂山花蜂巢蜜 280g/盒",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u32199955843051",
+					"nickname": "我爱糖炒栗子",
+					"userimage": "http://tx2.douguo.net/upload/photo/b/d/9/70_bd884a1b8881012afc7dcfd369d314f9.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "光鸡一只 ",
+					"material_much": "约1100克",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}, {
+					"material_name": "盐焗粉",
+					"material_much": "40克",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}, {
+					"material_name": "生姜 ",
+					"material_much": "1块",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}, {
+					"material_name": "香葱",
+					"material_much": "7、8条",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}, {
+					"material_name": "食用油",
+					"material_much": "1小勺",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}, {
+					"material_name": "花椒",
+					"material_much": "几粒",
+					"more_id": "4158111",
+					"more_name":"淘食帮专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 59,   
+					"ori_price": 88
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/c/5/7/400_c5ba7443ed436c84c1226a200dabb597.jpeg",
+					"intro": "1.买来一只清远鸡（也可以用别的鸡，例如三黄鸡，条件是要相对嫩一些的），收拾清洗干净后滤干水份，最好再用吸油纸把多余的水分吸收一下。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/5/d/4/400_5dace893a9b704908f02f7b9fa24e994.jpeg",
+					"intro": "2.准备盐焗粉。我这次买的鸡，光鸡去内脏后净重约1100克，用了40克的粉。但每个牌子的盐焗粉咸度不一样，腌制时间长短不一，个人口味，也有偏差。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/c/6/8/400_c6e8145d88abfd2e0200eefd7ebedb18.jpeg",
+					"intro": "3.鸡身里里外外涂抹盐焗粉，涂抹完之后，再给鸡做个按摩，让味道充分吸收，360度无死角，此处可以有一次性手套。然后蒙上保鲜膜，常温腌制两小时。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/d/a/400_7df200deb7e65b45aa3e1d5da0edf5da.jpeg",
+					"intro": "4.电饭锅底铺姜片，挽两把葱结，撒几颗花椒，舀一小勺食用油。油真的只需要一小勺，甚至可以不放，因为在焗的时候还会有鸡油滴落，不用担心电饭锅会烧焦。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/d/8/400_fd21dcf27339316574e658257345c6b8.jpeg",
+					"intro": "5.腌好的鸡正面朝上放进去，盖上锅盖，启动正常煮饭程序（约35分钟）。为啥要先正面朝上呢？我是这么想的，鸡身刚好留下足够的空间，让锅底调料的味道充分往上窜，而释放的鸡油和水分又能恰到好处的滴落。果然，在这期间，混合了姜葱花椒的盐焗味儿，顺着电饭锅的出汽口阵阵飘来，我甚至都不想离开厨房了。。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/5/7/400_b550777be3276af5d36ae6b8d6012ec7.jpeg",
+					"intro": "6.腌好的鸡正面朝上放进去，盖上锅盖，启动正常煮饭程序（约35分钟）。为啥要先正面朝上呢？我是这么想的，鸡身刚好留下足够的空间，让锅底调料的味道充分往上窜，而释放的鸡油和水分又能恰到好处的滴落。果然，在这期间，混合了姜葱花椒的盐焗味儿，顺着电饭锅的出汽口阵阵飘来，我甚至都不想离开厨房了。。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/3/3/a/400_339e58285c2e302f3a6f8026c2131dda.jpeg",
+					"intro": "7.这下大功告成，金黄诱人，香气扑鼻的电饭锅版盐焗鸡正式出锅喽。光速拍完照，赶紧招呼我家奶奶、帆爸、帆少过来吃。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/9/a/400_891175eb7b288a192a04ab78b2277b6a.jpeg",
+					"intro": "8.扭头发现，原来大家已经内行的准备好了手套。^_^帆爸豪气扯下一大块鸡腿，递给帆少。因为第一次做，不知味道到底如何，我忐忑的望向帆少～～～只见他咬下一块肉，眯眼细嚼慢咽状，然后不住地跺脚，嘴里嚷到：“哎呀！哎呀呀！”我更紧张了：“怎么啦？”帆少：“太好吃了！太好吃了！”。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/4/3/3/400_43c5e13480f6051b3fb2dd0c13d39413.jpeg",
+					"intro": "9.帆少不停歇地啃完一轮，又来细细点评：“爸爸在掰开鸡腿的时候，我分明看到里面鸡肉刹那之间的爆浆，太嫩了！而且鸡肉连带骨头都特别入味，唇齿留香！妈妈，毫不夸张的说，这是我出世以来吃到你做的最好吃的一道菜。老实话，你做的菜都很好，但我要一定要发自肺腑的，从内心深处的告诉您，这是最最最棒的！”有没有这么夸张啊帆少，但看见奶奶和帆爸同样肯定的眼神，我也吃了一口，觉得帆少说的，是天大的实话，鸡皮爽弹，鸡肉入味，满口香喷喷。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/e/5/d/400_e5184e96d3b9f237f64e07e88692f2dd.jpeg",
+					"intro": "10.等帆少感慨完毕，用锅里剩余的调料顺便焗出来的鸡翅也出锅了，没吃够的诸位，再请吧。^_^"
+				}
+			],
+			"food_remark":"",
+			"add_date":"－ 发布于2016-9-12 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"0005",
+			"food_name": "锅塌豆腐",
+			"food_img": "http://cp2.douguo.net/upload/caiku/b/2/8/600_b2f104867a61c9df1a1727f1ba6e5ce8.jpg",
+			"food_look": "45人浏览",
+			"food_collect": "2人收藏",
+			"food_do": "2人做过",
+			"food_intro": "做法及其简单的豆腐，调味非常简单，只有盐调味，做好的豆腐确实异常鲜美。",
+			"user_id": "youhaha0的厨房",
+			"user_img":"http://tx2.douguo.net/upload/photo/c/1/9/70_u0624814752746603092306.jpg",
+			"food_diffi": "切墩(初级)",
+			"food_time": "10-30分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-09 23:34:42",
+					"content": "好评",
+					"title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u29365026974785",
+					"nickname": "知识产权法律服务",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-07 18:43:53",
+					"content": "好评",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u29622411591205",
+					"nickname": "风轻云淡",
+					"userimage": "http://tx2.douguo.net/upload/photo/3/f/f/70_3fdaef9c148f59e2e6835fb3d353efaf.jpg"
+				},
+				{
+					"createtime": "2016-10-06 23:23:56",
+					"content": "不错！黄很多，就是肉少了点",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [
+						"http://i1.douguo.net//upload/tuan/0/3/7/032ffbb16a93f7f1525e36c85d8fbdd7.jpg",
+						"http://i1.douguo.net//upload/tuan/3/3/e/332c64ffb09b42b9258bfcbeb2dc7dbe.jpg",
+						"http://i1.douguo.net//upload/tuan/3/a/5/3a201ac4a2184eac3c1119731ebe62d5.jpg"
+					],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u75480919987494",
+					"nickname": "Juneijzm",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-06 11:45:22",
+					"content": "好划算，个头也大",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u38108076389354",
+					"nickname": "未来，我在。。。。",
+					"userimage": "http://tx2.douguo.net/upload/photo/7/6/4/70_u38108076389354221514.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "老豆腐",
+					"material_much": "400克",
+					"more_id": "18052177",
+					"more_name":"柠檬专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 2,   
+					"ori_price": 18
+
+				}, {
+					"material_name": "鸡蛋",
+					"material_much": "一个",
+					"more_id": "18052177",
+					"more_name":"柠檬专营店",
+					"more_img":"http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg",
+					"price": 2,   
+					"ori_price": 18
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/4/9/e/400_49b0c55105eff44161a9f4e2628f9e9e.jpg",
+					"intro": "1.准备豆腐、鸡蛋；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/c/9/4/400_c9c33bc71320fc39596a27099f4f1624.jpg",
+					"intro": "2.鸡蛋打撒在盘子中，容器一定要能平放开豆腐，豆腐放在蛋液里，两面沾满蛋液；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/3/3/3/400_330c3333e58cba211fd7afed9a6e6213.jpg",
+					"intro": "3.平底锅放适量的油，凉锅凉油，放入豆腐块，开小火慢煎；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/9/d/1/400_9dae2a5a33e33e9eaccf3da0049c1a71.jpg",
+					"intro": "4.一面煎黄后，翻面，一定不要急着翻面；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/1/7/e/400_17444d45a76b6be4b0d0164e58bf5e3e.jpg",
+					"intro": "5.两面全部煎黄后，倒入清水；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/c/2/400_fc6fad6506ec68a729a437ddf2bb5942.jpg",
+					"intro": "6.水量与豆腐齐平即可；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/4/6/a/400_464387ac886472c39621c3803063f8ba.jpg",
+					"intro": "7.放适量的盐，盖锅盖小火慢炖；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/5/0/400_f5961bc5899d515e84e7f74a17ae63c0.jpg",
+					"intro": "8.豆腐无需翻面，炖至汤汁收浓时，起锅即可；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/0/6/400_f0d9e5dc5ea2d30d36b75fbdc6a79cb6.jpg",
+					"intro": "9.装盘后撒上小香葱碎即可。"
+				}
+			],
+			"food_remark":"非常简单的做法，却是非常的美味，而且还是低脂，放心食用。",
+			"add_date":"－ 发布于2015-10-11 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"0006",
+			"food_name": "抓炒里脊",
+			"food_img": "http://cp2.douguo.net/upload/caiku/4/5/8/600_453b5cf3325a00aaf56c5413aa0cd9e8.jpg",
+			"food_look": "34人浏览",
+			"food_collect": "23人收藏",
+			"food_do": "6人做过",
+			"food_intro": "  【抓炒里脊】是我新学的一道菜哦！是宫廷菜，曾经慈禧老佛爷吃过并称赞过的一道菜，也是满汉全席其中的一道菜。其实跟我们现在常吃的糖醋里脊基本差不多，在里脊肉的腌制上稍有不同。糖醋汁也是经典的老配方。做法很简单，但是味道却比现在的糖醋里脊好，算的上名副其实的外焦里嫩，里脊肉经过油炸后，非常的脆，咬一口下去，你能听到脆脆的声音，口味酸甜适中，是绝对值得一试的一道菜。",
+			"user_id": "热情幸福的眼泪",
+			"user_img":"http://tx2.douguo.net/upload/photo/2/f/1/70_u11146956061151.jpg",
+			"food_diffi": "配菜(中级)",
+			"food_time": "10-30分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-09 23:34:42",
+					"content": "好评",
+					"title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u29365026974785",
+					"nickname": "知识产权法律服务",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-07 18:43:53",
+					"content": "好评",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u29622411591205",
+					"nickname": "风轻云淡",
+					"userimage": "http://tx2.douguo.net/upload/photo/3/f/f/70_3fdaef9c148f59e2e6835fb3d353efaf.jpg"
+				},
+				{
+					"createtime": "2016-10-06 23:23:56",
+					"content": "不错！黄很多，就是肉少了点",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [
+						"http://i1.douguo.net//upload/tuan/0/3/7/032ffbb16a93f7f1525e36c85d8fbdd7.jpg",
+						"http://i1.douguo.net//upload/tuan/3/3/e/332c64ffb09b42b9258bfcbeb2dc7dbe.jpg",
+						"http://i1.douguo.net//upload/tuan/3/a/5/3a201ac4a2184eac3c1119731ebe62d5.jpg"
+					],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u75480919987494",
+					"nickname": "Juneijzm",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-06 11:45:22",
+					"content": "好划算，个头也大",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u38108076389354",
+					"nickname": "未来，我在。。。。",
+					"userimage": "http://tx2.douguo.net/upload/photo/7/6/4/70_u38108076389354221514.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "里脊肉",
+					"material_much": "400克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "玉米淀粉",
+					"material_much": "120克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "水 ",
+					"material_much": "40克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "醋",
+					"material_much": "30克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "料酒",
+					"material_much": "20克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "酱油",
+					"material_much": "20克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "白糖",
+					"material_much": "50克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/e/2/4/400_e29b01b4b48cc8f2a66722f53ff038d4.jpg",
+					"intro": "1.猪通脊肉洗净，厨房纸擦干水分，在肉的两面打上花刀，便于里脊肉入味。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/3/2/400_f3747e37c065bce441bdc8e15e94a0f2.jpg",
+					"intro": "2.切成肉条。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/a/e/400_7aada08e065bffb9b125d07f194e617e.jpg",
+					"intro": "3.放入少量料酒和盐腌制"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/7/e/400_07971a3c818ec5a8a7b7072f0316ea2e.jpg",
+					"intro": "4.放入玉米淀粉120克、水40克，少量色拉油和盐，用手抓匀。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/a/c/3/400_ac2ba3196153fe01c070942094dde473.jpg",
+					"intro": "5.将油锅烧热，里脊放入炸制浅金黄色盛出。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/d/c/400_0d4aa3a14f900a7e24ff50534eb3131c.jpg",
+					"intro": "6.再将里脊肉放入油锅中复炸一边，炸制金黄色盛出。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/1/1/400_b1246f442b0e274715ed868676342b51.jpg",
+					"intro": "7.将抓炒汁一起放入碗中搅拌均匀。抓炒汁：醋30克、白糖50克、酱油20克、料酒20克。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/6/6/a/400_663776ed031cf63f1e1d13985f7e623a.jpg",
+					"intro": "8.炒锅烧热，放油，放入葱姜末炒香。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/d/4/400_bdb33129b3b7dc100ea9ea101ae804c4.jpg",
+					"intro": "9.放入抓炒汁翻炒，开锅后放入适量水淀粉，至汤汁浓稠。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/d/2/9/400_d24c03b4014dda30260652e972802499.jpg",
+					"intro": "10.将炸好的里脊肉放入，翻炒，使里脊肉表面都均匀的裹上抓炒汁，放入适量鸡精，即可出锅。"
+				}
+			],
+			"food_remark":"1、炸里脊时要一个一个的放入，防止肉粘连。<br/>2、博文中的配方适用于400克里脊肉。",
+			"add_date":"－ 发布于2015-10-11 －"
+		},
+		{
+			"exp":"",
+			"id":"0007",
+			"exp1":"moreInfo",
+			"food_name": "茶树菇鸡汤",
+			"food_img": "http://cp2.douguo.net/upload/caiku/5/8/e/600_58b4853cd3f030998279c906199d4e3e.jpg",
+			"food_look": "34人浏览",
+			"food_collect": "22人收藏",
+			"food_do": "1人做过",
+			"food_intro": "这道汤清甜好喝，茶树菇和鸡搭配好吃，值得尝试",
+			"user_id": "预期麻麻",
+			"user_img":"http://tx2.douguo.net/upload/photo/e/a/2/70_u30558714873621202213.jpg",
+			"food_diffi": "切墩(初级)",
+			"food_time": "1小时以上",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-04 12:42:34",
+					"content": "都是活的哟，买了很多次了，很满意，很好",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u15864495525083",
+					"nickname": "燕南飞707",
+					"userimage": "http://tx2.douguo.net/upload/photo/3/8/7/70_u15864495525083101656.jpg"
+				},
+				{
+					"createtime": "2016-10-04 00:28:21",
+					"content": "很好，都活着，味道也很好，家里人都说优惠",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u5922335184987",
+					"nickname": "莎莎同同",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-08-01 12:22:40",
+					"content": "好",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u42846459648615",
+					"nickname": "小叮当来了",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-07-27 12:56:21",
+					"content": "好评",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u14834599758164",
+					"nickname": "食之旺",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "鸡",
+					"material_much": "半只",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "干茶树菇",
+					"material_much": "1把",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "红枣 ",
+					"material_much": "1把",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "枸杞",
+					"material_much": "1小把",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "桂圆",
+					"material_much": "1把",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "姜片",
+					"material_much": "若干",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "葱段",
+					"material_much": "若干",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/1/f/9/400_1f69723d6a1dbe376c0eb8e380e70179.jpg",
+					"intro": "1.食材准备好"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/0/3/400_70df3fe9ff69b7070de28d6e66310383.jpg",
+					"intro": "2.茶树菇洗净温水泡10分钟"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/1/f/400_8132ee28c55629c529db4cf678a2d46f.jpg",
+					"intro": "3.鸡切小块"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/9/3/400_09142be61f33dee9d824e67c0f65c0c3.jpg",
+					"intro": "4.茶树菇泡好，切掉根部，长的茶树菇中间切一刀，整理好备用。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/9/d/400_09439896855a120e62bffa7c1a2c8e6d.jpg",
+					"intro": "5.泡茶树菇的水，过滤好，备用。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/e/b/3/400_eb71e2b13ed16a75e1dcd86fcf87a873.jpg",
+					"intro": "6.烧一锅水，水开后，放入鸡肉，葱段"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/9/5/d/400_957facc5a7975d789b10375bfdd2906d.jpg",
+					"intro": "7.等再次水开，撇去 浮沫，捞出鸡块。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/a/1/3/400_a181dfa35f857f642bb712ef5e2e7353.jpg",
+					"intro": "8.高压锅，铺一层鸡肉底部。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/e/1/b/400_e106c144337df5f75612faed27c3e38b.jpg",
+					"intro": "9.一层茶树菇"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/6/9/6/400_69ff791592912ef5983cf3967a8f6b96.jpg",
+					"intro": "10.上面放红枣，枸杞，桂圆，葱段"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/e/8/400_0e485e80669ea1dc2cd50603f052edf8.jpg",
+					"intro": "11.倒入之前泡茶树菇的水，水位末过多些就好。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/7/0/400_f763fc5d3cd630601ced0f0301347dd0.jpg",
+					"intro": "12.高压锅按鸡鸭键，等煮好自动保温后，打开加盐即可。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/6/c/4/400_6c20ada46d3c4340df5b3bbf8ffbf844.jpg",
+					"intro": "13.成品图"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/4/4/8/400_445d1435151e5a48029fe8b18b373a58.jpg",
+					"intro": "14.成品图"
+				}
+			],
+			"food_remark":"",
+			"add_date":"－ 发布于2016-10-11 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"0008",
+			"food_name": "桂花糯米藕",
+			"food_img": "http://cp2.douguo.net/upload/caiku/0/4/1/600_04850c98904fb1dccebd051de2693fa1.jpg",
+			"food_look": "32人浏览",
+			"food_collect": "4人收藏",
+			"food_do": "2人做过",
+			"food_intro": "入秋风潇冷，满城桂花香！沁人心脾，却又不忍离去，索性摘上一些回去。炖上一锅糯米藕，撒上自制的糖桂花，糯，香，甜！",
+			"user_id": "若愚妈妈",
+			"user_img":"http://tx2.douguo.net/upload/photo/c/4/3/70_u28279845516750070111.jpg",
+			"food_diffi": "配菜(中级)",
+			"food_time": "1小时以上",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-04 12:42:34",
+					"content": "都是活的哟，买了很多次了，很满意，很好",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u15864495525083",
+					"nickname": "燕南飞707",
+					"userimage": "http://tx2.douguo.net/upload/photo/3/8/7/70_u15864495525083101656.jpg"
+				},
+				{
+					"createtime": "2016-10-04 00:28:21",
+					"content": "很好，都活着，味道也很好，家里人都说优惠",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u5922335184987",
+					"nickname": "莎莎同同",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-08-01 12:22:40",
+					"content": "好",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u42846459648615",
+					"nickname": "小叮当来了",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-07-27 12:56:21",
+					"content": "好评",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u14834599758164",
+					"nickname": "食之旺",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-06-03 22:31:37",
+					"content": "好评",
+					"title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u76185091460566",
+					"nickname": "Luviagelita丶",
+					"userimage": "http://tx2.douguo.net/upload/photo/d/e/3/70_u76185091460566220455.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "藕",
+					"material_much": "2个",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "红糖",
+					"material_much": "适量",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "糯米 ",
+					"material_much": "适量",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "糖桂花",
+					"material_much": "适量",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "冰糖",
+					"material_much": "适量",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "红枣",
+					"material_much": "五六个",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/8/4/1/400_84f94f9404ee1aca201e432a8eda5d01.jpg",
+					"intro": "1.糯米提前泡上一夜"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/2/6/400_f2b4417126a1bf996e3965b668c701a6.jpg",
+					"intro": "2.藕，去皮，从一头切开一片。（在买藕的时候，藕的两头不用去掉）"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/5/b/400_8501ace1afd91d5a4967a1acec15dffb.jpg",
+					"intro": "3.糯米塞到藕眼里即可。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/e/9/e/400_e99d8aea5ff3b7345e3bfeb71192eb2e.jpg",
+					"intro": "4.用牙签把切下来的那一片固定好。放入电饭锅。放入几颗枣，倒入没过藕的水。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/6/9/400_86e0408fc370b93263b4dbeafa1226e9.jpg",
+					"intro": "5.一勺红糖"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/1/2/400_b15caeca17a1725c73256236daf297b2.jpg",
+					"intro": "6.一勺冰糖。 按下煮饭健。大约一个半小时。建议大家做一个藕段就行。我电饭锅小，还做了两个，最后都没有什么汁了。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/5/7/400_75c080be40175f7be69120f3292d9417.jpg",
+					"intro": "7.做好，切片。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/1/1/400_71c6e35718b2ff5456b8cbd82077b061.jpg",
+					"intro": "8.撒上糖桂花。糖桂花的食谱在首页搜，有很多。不想自己做得，可以买现成的。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/a/1/400_fa8f8c31195c537cf7556bef0608ee81.jpg",
+					"intro": "9.秋季多吃藕哦！"
+				}
+			],
+			"food_remark":"",
+			"add_date":"－ 发布于2016-10-11 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"0009",
+			"food_name": "南瓜玫瑰花馒头",
+			"food_img": "http://cp2.douguo.net/upload/caiku/5/a/0/600_5a75b4883c261bb266cfa6ba821169b0.jpeg",
+			"food_look": "121人浏览",
+			"food_collect": "21人收藏",
+			"food_do": "3人做过",
+			"food_intro": "南瓜含有丰富的维生素a、b、c及矿物质，必需的8种氨基酸和儿童必需的组氨酸，可溶性纤维、叶黄素和磷、钾、钙、镁、锌、硅等微量元素。近代营养学和医学表明，多食老南瓜可有效防治高血压，糖尿病及肝脏病变，提高人体免疫能力。 ...今天就来给大家分享一款好吃又好看的",
+			"user_id": "有缘_3",
+			"user_img":"http://tx2.douguo.net/upload/photo/d/5/a/70_u24963052907579173901.jpeg",
+			"food_diffi": "切墩(初级)",
+			"food_time": "50-80分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-11 10:19:40",
+					"content": "挺好的",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u83126092207283",
+					"nickname": "独孤云",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-11 06:59:45",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u84381414720552",
+					"nickname": "桐桦",
+					"userimage": "http://tx2.douguo.net/upload/photo/5/b/2/70_u84381414720552211842.jpg"
+				},
+				{
+					"createtime": "2016-10-10 23:15:36",
+					"content": "超级美味的牛排，量足，肉质很鲜美！光吃了，忘记拍照了",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u75982917936929",
+					"nickname": "心情窝窝",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-10 22:25:07",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u38051396390821",
+					"nickname": "豆粉0513969",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-10 11:55:22",
+					"content": "看着不错，到货也挺快，吃过再评价",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [
+						"http://i1.douguo.net//upload/tuan/1/8/c/1855bc1adf1f03cc236ef21515fcc64c.jpeg",
+						"http://i1.douguo.net//upload/tuan/3/1/d/318ef81bd2a2275aa0ea6abcc0fcb87d.jpeg"
+					],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u7580983014643",
+					"nickname": "18842344191",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "熟南瓜泥",
+					"material_much": "250克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "中精面粉",
+					"material_much": "500克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "糖(可不加) ",
+					"material_much": "10克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "酵母",
+					"material_much": "5克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/d/b/0/400_db0881d0bc0cc02446f1d008370f1f40.jpeg",
+					"intro": "1.南瓜去皮放入蒸锅蒸熟取出250克，因为有水份，所以直接用筷子搅搅就变成南瓜泥了，加入10克左右白糖（可不加），待南瓜泥温热时放入5克酵母，搅拌均匀"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/7/0/400_87f4fd0aadacc0eb12655c5dc0a81ed0.jpeg",
+					"intro": "2.放入500克面粉（根据面粉吸水性可以适量添加南瓜泥或者清水）和成光滑的面团"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/4/c/7/400_4c42d67662e02272ae9d7b83f82552a7.jpeg",
+					"intro": "3.放在蒸锅（里面加热水）或者温暖的地方发酵至2倍大，里面呈蜂窝状"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/3/b/f/400_3b37fa309ead122a420916c5f50bc2ef.jpeg",
+					"intro": "4.发酵好的面团，排气分成小剂子"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/d/b/400_7d1d50403800b50b0a7aeb5b88981f5b.jpeg",
+					"intro": "5.擀成中间厚边缘薄的面片，6个一组，依次摆好，取一小块搓成长条做花蕊"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/6/c/5/400_6cc014a676e2d0ae9e84751abebb20c5.jpeg",
+					"intro": "6.从下往上卷起来，中间用刮刀切开"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/2/c/b/400_2c9239c4d19ce7c4ed4ec9f282cf53eb.jpeg",
+					"intro": "7.稍微整一下形"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/9/0/4/400_9037e1f00fb65c81561a37ffec00e474.jpeg",
+					"intro": "8.蒸锅加冷水，馒头放入蒸锅醒发25分钟左右，开火蒸15分钟，焖4-5分钟即可取出"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/2/b/8/400_2b481f3887fb9484137c31ae90204538.jpeg",
+					"intro": "9.好吃又好看"
+				}
+			],
+			"food_remark":"1、面片不要擀的太薄，影响口感。2、面片可以取4-8片，根据各人喜欢任意选择",
+			"add_date":"－ 发布于2016-10-11 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"00010",
+			"food_name": "白菜香菇肉包子",
+			"food_img": "http://cp2.douguo.net/upload/caiku/2/4/8/600_24fc01323772c7e0472d6b81eb0614e8.jpeg",
+			"food_look": "123人浏览",
+			"food_collect": "56人收藏",
+			"food_do": "23人做过",
+			"food_intro": "老公喜欢面食，特别钟爱包子、饺子。经过几十次的磨练，我做包子、饺子终于可以得心应手啦！",
+			"user_id": "有缘_5",
+			"user_img":"http://tx2.douguo.net/upload/photo/d/5/a/70_u24963052907579173901.jpeg",
+			"food_diffi": "和面(初级)",
+			"food_time": "50-80分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-11 10:19:40",
+					"content": "挺好的",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u83126092207283",
+					"nickname": "独孤云",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-11 06:59:45",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u84381414720552",
+					"nickname": "桐桦",
+					"userimage": "http://tx2.douguo.net/upload/photo/5/b/2/70_u84381414720552211842.jpg"
+				},
+				{
+					"createtime": "2016-10-10 23:15:36",
+					"content": "超级美味的牛排，量足，肉质很鲜美！光吃了，忘记拍照了",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u75982917936929",
+					"nickname": "心情窝窝",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-10 22:25:07",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u38051396390821",
+					"nickname": "豆粉0513969",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-10 11:55:22",
+					"content": "看着不错，到货也挺快，吃过再评价",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [
+						"http://i1.douguo.net//upload/tuan/1/8/c/1855bc1adf1f03cc236ef21515fcc64c.jpeg",
+						"http://i1.douguo.net//upload/tuan/3/1/d/318ef81bd2a2275aa0ea6abcc0fcb87d.jpeg"
+					],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u7580983014643",
+					"nickname": "18842344191",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "面粉",
+					"material_much": "150克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "发酵粉",
+					"material_much": "30克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "白菜 ",
+					"material_much": "适量",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "香菇",
+					"material_much": "适量",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "葱姜",
+					"material_much": "适量",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "水(和面)",
+					"material_much": "250克",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "高汤或者水(馅料)",
+					"material_much": "适量",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "猪肉",
+					"material_much": "适量",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/e/a/c/400_ead04eca3fe54711bf20f1d07469498c.jpeg",
+					"intro": "1.酵母加温水化开，加面粉和成光滑的面团发酵至两倍大"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/e/c/400_bebf567478a7e6eb8b578d263da23e3c.jpeg",
+					"intro": "2.猪肉加姜末、鸡蛋、生抽、老抽、蚝油、糖、盐、料酒、黑胡椒粉、食用油搅拌均匀，分3-4次加入适量的高汤（水）顺时针搅拌至吸收，再加下一次，最后加入葱末搅拌均匀即可"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/d/8/a/400_d8b9bce4888135c271d8adaf7cede6aa.jpeg",
+					"intro": "3.大白菜加适量的盐腌一下，用手挤出水分，和香菇碎，加少量的食用油拌一下即可"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/e/8/400_0e626fe99b6ff9bfae4bd1c9b4822a78.jpeg",
+					"intro": "4.白菜香菇馅和肉馅拌在一起搅拌均匀"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/3/c/2/400_3c5bb8c7e1646bd3318bcfd5d5d1fe62.jpeg",
+					"intro": "5.取出发酵好的面团，切成小剂子"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/1/1/400_81b114eadcd558a3794672eb7a147fd1.jpeg",
+					"intro": "6.擀成中间厚边缘薄的圆面片"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/9/3/9/400_93724a425c06a4c0beec44e8d05467f9.jpeg",
+					"intro": "7.包好肉馅，室温发酵25分钟左右"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/a/a/400_8ae6437fcf27bed9383e4b54d7fb494a.jpeg",
+					"intro": "8.锅内倒入适量冷水，开火蒸15分钟焖4-5分钟即可"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/f/e/400_bf9383bb97f106d7a99ffbcf85ae0e8e.jpeg",
+					"intro": "9.白白胖胖大包子出锅咯"
+				}
+			],
+			"food_remark":"1、肉馅中打水，是为了吃起来口感更润。2、素馅裹油和肉馅分开拌，馅料长久不会渗水，包韭菜肉馅优势特别明显。",
+			"add_date":"－ 发布于2016-10-11 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"00011",
+			"food_name": "干煎带鱼",
+			"food_img": "http://cp2.douguo.net/upload/caiku/c/a/f/400x300_ca04fbb142717516612feea654c7d94f.jpg",
+			"food_look": "56人浏览",
+			"food_collect": "28人收藏",
+			"food_do": "6人做过",
+			"food_intro": "带鱼怎么煎更好吃？嘉宾爱可教你这3招——带鱼抹盐后彻底风干；锅加热至冒烟后爆香葱姜，再煎带鱼；一面煎透后才翻面。这样煎就完全不会粘锅，比起裹生粉炸的更酥脆干香。煎好的带鱼，用来红烧、糖醋，味道也是一流。",
+			"user_id": "美食台",
+			"user_img":"http://tx2.douguo.net/upload/photo/f/4/8/70_u5448497412272002031651.jpg",
+			"food_diffi": "切墩(初级)",
+			"food_time": "50-80分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-09 16:29:29",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u67635452706276",
+					"nickname": "章雁",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-07 13:00:06",
+					"content": "好评",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u56196238277728",
+					"nickname": "某某某savf",
+					"userimage": "http://tx2.douguo.net/upload/photo/7/7/f/70_u56196238277728185005.jpg"
+				},
+				{
+					"createtime": "2016-10-07 12:02:18",
+					"content": "牛排口感可以，肉质细嫩。就是整块肉看起来细节处理不是很好。另外，黑椒酱不是很好，味道偏咸，质感偏稀。总的来说勉强算好评！",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u53477211797654",
+					"nickname": "淡墨绘情愁",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-02 16:37:26",
+					"content": "买来送朋友的，她觉得很棒！以后会常光顾的。",
+					"title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u32782862534807",
+					"nickname": "皓宝的妈",
+					"userimage": "http://tx2.douguo.net/upload/photo/6/3/d/70_u32782862534807111425.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "带鱼",
+					"material_much": "2条",
+					"more_id": "10604856",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "盐",
+					"material_much": "适量",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "油",
+					"material_much": "适量",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "葱段",
+					"material_much": "少许",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "姜片",
+					"material_much": "少许",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/2/a/f/400_2a66ec8aab8ea185b7dafca7e08dffdf.jpg",
+					"intro": "1.先处理带鱼。把去除鱼鳃、内脏的带鱼去头去尾，再剪掉鱼鳍，然后撒上食盐，均匀涂抹于鱼身，腌制半小时；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/8/4/6/400_84e2eac1408c8136f2e75263135b4b86.jpg",
+					"intro": "2.待盐完全吸收后，放进竹匾彻底风干，大约要半天；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/7/d/400_f78b591d55e2cc9313d169d4c1465b8d.jpg",
+					"intro": "3.接下来将带鱼剪成5厘米左右大小的鱼块，备用；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/f/a/400_bf76aa1649cf521159b05025cc1fbfea.jpg",
+					"intro": "4.取一口铁锅烧热，微微冒烟后，转中火，倒一点油，下葱段、姜片，煸香；捞出葱、姜，下带鱼；"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/b/a/400_fb02f2038839e85629e2891916e54d7a.jpg",
+					"intro": "5.煎的过程中不要急于翻面，待一面完全煎至金黄后再翻。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/a/a/2/400_aab104224797f3d0f2be2f0df132d7a2.jpg",
+					"intro": "6.等两面煎透，酥脆干香的干煎带鱼就做好了。 "
+				}
+			],
+			"food_remark":"",
+			"add_date":"－ 发布于2016-10-11 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"00012",
+			"food_name": "西多士 亲研花生酱",
+			"food_img": "http://cp2.douguo.net/upload/caiku/3/8/f/600_389468c1238473dc648a5785cc8fecaf.jpg",
+			"food_look": "56人浏览",
+			"food_collect": "28人收藏",
+			"food_do": "9人做过",
+			"food_intro": "前几天，亲手做了花生酱,昨晚做了土司。今天下午茶，就是这道西多士了。",
+			"user_id": "蜜桃爱烘焙",
+			"user_img":"",
+			"food_diffi": "配菜(种级)",
+			"food_time": "10-40分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-07-30 13:03:52",
+					"content": "好评",
+					"title": "【母亲节礼物】欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u29010695364302",
+					"nickname": "自在心安3",
+					"userimage": "http://tx2.douguo.net/upload/photo/8/8/5/70_88202b40df079edaa6da8e15b3555d65.jpg"
+				},
+				{
+					"createtime": "2016-06-15 11:52:40",
+					"content": "好评",
+					"title": "【母亲节礼物】欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u65729392201713",
+					"nickname": "wxd0508",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-06-02 19:25:44",
+					"content": "还不错，爸妈都很喜欢。",
+					"title": "【母亲节礼物】欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u1809666766340",
+					"nickname": "桔子144",
+					"userimage": "http://tx2.douguo.net/upload/photo/4/6/b/70_u1809666766340232536.jpg"
+				},
+				{
+					"createtime": "2015-10-31 14:06:18",
+					"content": "好评",
+					"title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u07622169796742",
+					"nickname": "展飞飞",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2015-10-27 22:11:30",
+					"content": "收到了包装 挺好东西也挺好的正品。",
+					"title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u25848792806410",
+					"nickname": "你是我的唯一ni",
+					"userimage": "http://tx2.douguo.net/upload/photo/a/f/4/70_u25848792806410213155.jpeg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "吐司面包",
+					"material_much": "3片",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "花生酱",
+					"material_much": "适量",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "鸡蛋 ",
+					"material_much": "2个",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "牛奶",
+					"material_much": "40克",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "细砂糖",
+					"material_much": "20g",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "花生油",
+					"material_much": "20ml",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/a/e/9/400_aefddfd2e2ae2a94a78d658f87864569.jpg",
+					"intro": "1.烤好的土司，放凉，切片。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/9/d/c/400_9d92bb39a21dba5ac7de7b24d9b265bc.jpg",
+					"intro": "2.取3片土司，切边。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/0/d/400_0042dc96f9f1cf6fb5814b4a55cc356d.jpg",
+					"intro": "3.2片土司重叠，沿着对角线，切成4份三角形。这样3片土司，可以切出6组三角形。图中多切了一些……"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/a/f/c/400_af338aa00a41c75f6f965ee1a4b7e63c.jpg",
+					"intro": "4.放上，自制的花生酱"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/f/2/400_bf7a29bacc825ef5fbbbcef816212b52.jpg",
+					"intro": "5.涂抹开"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/4/6/3/400_4673dfa339fc725ca637d00cfec80af3.jpg",
+					"intro": "6.鸡蛋打成全蛋液，加入牛奶和细砂糖，搅打均匀"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/8/d/400_083bc8e2e8fc48a7c587bf8217a3a03d.jpg",
+					"intro": "7.把花生酱夹在中间。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/8/f/400_0869f35f93ca7c8d9432e2981374035f.jpg",
+					"intro": "8.裹蛋液。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/0/3/400_70dba54ded452bae489951113915f953.jpg",
+					"intro": "9.热锅热油，小火，煎一下"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/5/6/2/400_56cdc4ee20c95a8776974c0c389b9b02.jpg",
+					"intro": "10.翻身煎"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/4/c/2/400_4cf8f86352c6d1d41ed0ab59503eae12.jpg",
+					"intro": "11.侧面也要煎"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/d/0/e/400_d0788e149f488e51abc0b834da509fee.jpg",
+					"intro": "12.出锅，如此的完美，配个咖啡，下午茶了。"
+				}
+			],
+			"food_remark":"菜谱是甜味的，也可以做成咸味的，在鸡蛋液里加盐、大蒜粉，或者盐+葱粉+小香葱，做成咸口味的。一样好吃哦。",
+			"add_date":"－ 发布于2016-10-11 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"00013",
+			"food_name": "黑芝麻花生糖",
+			"food_img": "http://cp2.douguo.net/upload/caiku/3/8/6/600_38ab869dae2e4104b9ae135ab5c18826.jpg",
+			"food_look": "78人浏览",
+			"food_collect": "20人收藏",
+			"food_do": "4人做过",
+			"food_intro": "中秋节做月饼剩下很多边角料，充分利用起来，就是一道可口的零食。",
+			"user_id": "玉米妈妈",
+			"user_img":"http://tx2.douguo.net/upload/photo/e/a/2/70_u30558714873621202213.jpg",
+			"food_diffi": "切墩(初级)",
+			"food_time": "50-80分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-07-30 13:03:52",
+					"content": "好评",
+					"title": "【母亲节礼物】欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u29010695364302",
+					"nickname": "自在心安3",
+					"userimage": "http://tx2.douguo.net/upload/photo/8/8/5/70_88202b40df079edaa6da8e15b3555d65.jpg"
+				},
+				{
+					"createtime": "2016-06-15 11:52:40",
+					"content": "好评",
+					"title": "【母亲节礼物】欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u65729392201713",
+					"nickname": "wxd0508",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-06-02 19:25:44",
+					"content": "还不错，爸妈都很喜欢。",
+					"title": "【母亲节礼物】欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u1809666766340",
+					"nickname": "桔子144",
+					"userimage": "http://tx2.douguo.net/upload/photo/4/6/b/70_u1809666766340232536.jpg"
+				},
+				{
+					"createtime": "2015-10-31 14:06:18",
+					"content": "好评",
+					"title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u07622169796742",
+					"nickname": "展飞飞",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2015-10-27 22:11:30",
+					"content": "收到了包装 挺好东西也挺好的正品。",
+					"title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u25848792806410",
+					"nickname": "你是我的唯一ni",
+					"userimage": "http://tx2.douguo.net/upload/photo/a/f/4/70_u25848792806410213155.jpeg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "花生",
+					"material_much": "150克",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "黑芝麻",
+					"material_much": "30克",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "葵花籽仁 ",
+					"material_much": "45克",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "清水",
+					"material_much": "40g",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "麦芽糖",
+					"material_much": "40g",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "白砂糖",
+					"material_much": "40g",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/7/8/2/400_78fb5446030fb79e5bd4853f384d2ed2.jpg",
+					"intro": "1.食材称好准备好"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/9/c/a/400_9c2da425e7185737f49b43a822fa8c6a.jpg",
+					"intro": "2.葵花籽仁，花生，黑芝麻都是要分别炒熟的。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/6/a/7/400_6a9aa8c1b8ae5c2d450acce7124d0ed7.jpg",
+					"intro": "3.都炒熟后，倒一起，混合均匀。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/9/7/400_09f272c9c3e77bf7a074f43cacc5c687.jpg",
+					"intro": "4.锅热，开小火，倒入水，白糖，麦芽糖，一直小火慢煮。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/4/5/400_f4af468b8d6e2c2ccad85ca540628ee5.jpg",
+					"intro": "5.一直煮到用筷子可以拉丝，感觉快凝固之前立马关火。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/5/0/f/400_503cee766c52b30752e3376aca54b4af.jpg",
+					"intro": "6.倒入黑芝麻花生果仁，快速搅拌均匀。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/2/3/f/400_237df6c9f90eba3deca9201177d2a46f.jpg",
+					"intro": "7.快速倒出案板上，这里值得注意，为了防止粘到案板，需要提前在案板上铺油纸，这样还可以用油纸翻过来，把芝麻糖压平，压成长方形。如果没有油纸，可以铺一层保鲜膜，上面刷点点食用油。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/9/a/0/400_9ab6e4c9d3965966861de9100460a9e0.jpg",
+					"intro": "8.等到凉了，用刀切小方块即可食用。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/3/1/400_735fba53f32063d5d1422e915d235b01.jpg",
+					"intro": "9.食物储物盒保存好"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/f/5/5/400_f54f18578d1f8f73ee6504f3e088da65.jpg",
+					"intro": "10.成品图"
+				}
+			],
+			"food_remark":"",
+			"add_date":"－ 发布于2016-10-11 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"00014",
+			"food_name": "莳萝煎巴沙鱼",
+			"food_img": "http://cp2.douguo.net/upload/caiku/e/f/a/600_ef81b035dc0f9ae8e89aa04dcf4a075a.jpg",
+			"food_look": "5676人浏览",
+			"food_collect": "25人收藏",
+			"food_do": "7人做过",
+			"food_intro": "买了冷冻巴沙鱼柳，用煎的做法快手香嫩又好吃，当做早餐再合适不过啦~",
+			"user_id": "亲爱的兔兔",
+			"user_img":"http://tx2.douguo.net/upload/photo/f/8/4/70_u90220649629766183737.jpg",
+			"food_diffi": "切墩(初级)",
+			"food_time": "50-80分钟",
+			"foods_comment":[
+				{
+					"createtime": "2015-10-24 10:19:30",
+					"content": "一直在喝这款苹果醋，之前都是在超市买，有了优惠券在豆果买比超市划算多了。加点蜂蜜冲水喝酸酸甜甜非常棒！",
+					"title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u89333438157645",
+					"nickname": "Moon.0817",
+					"userimage": "http://tx2.douguo.net/upload/photo/8/d/1/70_u89333438157645101922.jpg"
+				},
+				{
+					"createtime": "2015-09-03 16:00:38",
+					"content": "好评",
+					"title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u22177476406730",
+					"nickname": "兔妞罗罗",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				},
+				{
+					"createtime": "2016-10-11 11:25:37",
+					"content": "太好了，而且不粘锅，特意试过才来评价",
+					"title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+					"img": [
+						"http://i1.douguo.net//upload/tuan/5/d/3/5d45c3f4e4f2832b7a35dfe6af94fe93.jpeg",
+						"http://i1.douguo.net//upload/tuan/a/4/1/a46875d0e404baeed394554e67c0fcd1.jpeg"
+					],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u19057569468892",
+					"nickname": "草央5",
+					"userimage": "http://tx2.douguo.net/upload/photo/d/1/f/70_u19057569468892124209.jpeg"
+				},
+				{
+					"createtime": "2016-10-09 17:23:41",
+					"content": "好评",
+					"title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u14926494855095",
+					"nickname": "lukcyEUnice",
+					"userimage": "http://tx2.douguo.net/upload/photo/4/9/6/70_u14926494855095190815.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "巴沙鱼片",
+					"material_much": "1片",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "海盐",
+					"material_much": "少量",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "黑胡椒 ",
+					"material_much": "45克",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "橄榄油",
+					"material_much": "2汤匙",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "辣椒粉",
+					"material_much": "少量",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "莳萝",
+					"material_much": "一颗",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "配菜",
+					"material_much": "随意",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/e/4/3/400_e44e5e9755b8d75245b035908356dd73.jpg",
+					"intro": "1.冷冻巴沙鱼柳切出一块要吃的大小，放在网架或者其他可漏水的东西上自然解冻，这样可以避免解冻出的水把鱼肉泡糟。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/3/b/2/400_3b235b3f9247003ea1be958522a37582.jpg",
+					"intro": "2.解冻后用厨房纸巾吸干表面水分，撒上海盐，黑胡椒粉，辣椒粉，切碎的莳萝腌制10分钟。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/c/a/2/400_caab556ae2d0336e06ba692b74c34642.jpg",
+					"intro": "3.配菜我选了芦笋，洗净切段。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/1/b/e/400_1b76e39e6c230cf1cead361c84b72a2e.jpg",
+					"intro": "4.锅中热橄榄油，放入腌好的鱼块和芦笋煎。鱼肉比较散软易粘，油量可给足一些，不要多翻动。一面煎两分钟后翻面。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/d/9/7/400_d985e682c48c0779977e1497ceadcf27.jpg",
+					"intro": "5.翻面煎至鱼肉全部变白即可出锅。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/c/7/400_bc8b9c3a8f3de33d349c68984f4870a7.jpg",
+					"intro": "6.非常嫩哦~"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/4/f/0/400_4f5668ec1d3456c4f29f1df0af40acd0.jpg",
+					"intro": "7.鲜嫩多汁很好吃~"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/1/e/b/400_1ed9ae2c9c7490ea050f58342b55631b.jpg",
+					"intro": "8.还加了一些其他配菜，按照自己的喜好来做吧~"
+				}
+			],
+			"food_remark":"",
+			"add_date":"－ 发布于2016-10-11 －"
+		},
+		{
+			"exp":"",
+			"exp1":"moreInfo",
+			"id":"00015",
+			"food_name": "柠檬6寸加高戚风",
+			"food_img": "http://cp2.douguo.net/upload/caiku/9/7/7/600_97b145700aac605823df446fe2351627.jpeg",
+			"food_look": "100人浏览",
+			"food_collect": "20人收藏",
+			"food_do": "5人做过",
+			"food_intro": "戚风加了柠檬丝，口感清爽，没腥味。",
+			"user_id": "手揉女汉子",
+			"user_img":"http://tx2.douguo.net/upload/photo/c/4/3/70_u28279845516750070111.jpg",
+			"food_diffi": "和面(初级)",
+			"food_time": "50-80分钟",
+			"foods_comment":[
+				{
+					"createtime": "2016-10-11 11:25:37",
+					"content": "太好了，而且不粘锅，特意试过才来评价",
+					"title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+					"img": [
+						"http://i1.douguo.net//upload/tuan/5/d/3/5d45c3f4e4f2832b7a35dfe6af94fe93.jpeg",
+						"http://i1.douguo.net//upload/tuan/a/4/1/a46875d0e404baeed394554e67c0fcd1.jpeg"
+					],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u19057569468892",
+					"nickname": "草央5",
+					"userimage": "http://tx2.douguo.net/upload/photo/d/1/f/70_u19057569468892124209.jpeg"
+				},
+				{
+					"createtime": "2016-10-09 17:23:41",
+					"content": "好评",
+					"title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u14926494855095",
+					"nickname": "lukcyEUnice",
+					"userimage": "http://tx2.douguo.net/upload/photo/4/9/6/70_u14926494855095190815.jpg"
+				},
+				{
+					"createtime": "2016-10-09 11:32:18",
+					"content": "看着外观不错等我用了再来评价哈",
+					"title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u72288585152126",
+					"nickname": "东北哥Henry",
+					"userimage": "http://tx2.douguo.net/upload/photo/6/6/2/70_u72288585152126170842.jpeg"
+				},
+				{
+					"createtime": "2016-10-09 02:43:14",
+					"content": "好评",
+					"title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u74188462136396",
+					"nickname": "阿丹pibz",
+					"userimage": "http://tx2.douguo.net/upload/photo/5/0/f/70_u74188462136396224829.jpeg"
+				},
+				{
+					"createtime": "2016-10-09 00:36:10",
+					"content": "好评",
+					"title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+					"img": [],
+					"scoreName": "好评",
+					"listclass": null,
+					"username": "u61740760870759",
+					"nickname": "梓君宇童",
+					"userimage": "http://tx2.douguo.net/static/img/70.jpg"
+				}
+			],
+			"food_plan": [
+				{
+					"material_name": "6寸戚风材料",
+					"material_much": "12g",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "鸡蛋",
+					"material_much": "3个",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}, {
+					"material_name": "低筋面粉 ",
+					"material_much": "45克",
+					"more_name":"九百亩旗舰店",
+					"more_img":"http://cp2.douguo.net/upload/caiku/8/8/0/600_88abe3bcf16331749877132629ad3970.jpg",
+					"price": 19,   
+					"ori_price": 28
+				}
+			],
+			"food_step": [
+				{
+					"img": "http://cp2.douguo.net/upload/caiku/5/d/f/400_5d049bbfd2f6129910234ebddc44b72f.jpeg",
+					"intro": "1.所有材料"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/a/2/5/400_a225c8d8985a8692b07ebe2435022dc5.jpeg",
+					"intro": "2.蛋白蛋黄分离，将牛奶，蛋黄，玉米油，糖搅拌均匀。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/3/a/a/400_3afd9109436a2945bd27ef8b214fa40a.jpeg",
+					"intro": "3.筛入低粉跟柠檬皮丝搅匀，注意手法不要画圈圈，用Z字型搅拌。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/a/7/9/400_a7f9a10b26c7ed12ce4d8a841e100dd9.jpeg",
+					"intro": "4.搅拌好的蛋黄糊放置一边待用。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/e/1/400_0e1a63f585b129684b2be9dc3b49fbd1.jpeg",
+					"intro": "5.蛋白打到有鱼眼放1/3的糖打发。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/3/8/a/400_389325f00aa2b0af74b670058979a3aa.jpeg",
+					"intro": "6.第二次糖打到蛋白霜直角坚挺。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/7/1/8/400_711728b7b5ba4cc40f6ad8e317594b78.jpeg",
+					"intro": "7.把剩余糖倒入打发到蛋白霜细腻不要过度湿性程度，看图片。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/b/8/6/400_b8c22f1b81e4bd0b2056c573918fdbe6.jpeg",
+					"intro": "8.混合蛋黄跟蛋白霜，把1/3的蛋白跟蛋黄搅拌均匀。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/6/7/f/400_670334809219e2bed92333604349991f.jpeg",
+					"intro": "9.搅拌匀的蛋黄糊倒入剩余的蛋白盘里翻拌均匀。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/c/e/f/400_ce66679a787719a06ace53f6e34abe3f.jpeg",
+					"intro": "10.蛋糊倒入6寸中空模，在操作台轻震几下。预热180度。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/3/f/b/400_3f8d4c8b2db6abe942cc0d247e51ee4b.jpeg",
+					"intro": "11.烘烤时间150度，烤40分钟。温度请以自家烤箱为准。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/1/9/5/400_19e2f83d002d13635e4dc33b50e65835.jpeg",
+					"intro": "12.出炉倒扣放凉脱模。"
+				}, {
+					"img": "http://cp2.douguo.net/upload/caiku/0/d/7/400_0d54c017ffa4b1a646523fd1a5cc4077.jpeg",
+					"intro": "13.，美美的成品图。"
+				}
+			],
+			"food_remark":"",
+			"add_date":"－ 发布于2016-10-11 －"
+		}
+		
+	]
+}

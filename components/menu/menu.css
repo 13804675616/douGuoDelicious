@@ -1,0 +1,85 @@
+@import "../../css/reset.css";
+.menu_head.menu_head {
+  width: 100%;
+  height: 1.22392211rem;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.34770515rem 0.27816412rem 0.34770515rem 0.41724618rem;
+  box-sizing: border-box;
+  font-size: 0;
+  position: fixed;
+  z-index: 5;
+}
+.menu_head.menu_head p {
+  font-size: 0.45897079rem;
+  color: #000000;
+  width: 2.60083449rem;
+  height: 0.4867872rem;
+  text-align: center;
+}
+.menu_head.menu_head a.menu_back {
+  width: 0.41724618rem;
+  height: 0.61196106rem;
+  background: url("../../images/btn.png") no-repeat -0.41724618rem -2.99026426rem;
+  background-size: 2.78164117rem 13.90820584rem;
+}
+.menu_head.menu_head span.menu_update {
+  width: 0.945758rem;
+  height: 0.58414465rem;
+  font-size: 0.45897079rem;
+}
+.menu_content {
+  text-align: center;
+  width: 100%;
+  font-size: 0;
+}
+.menu_content > div {
+  width: 100%;
+  height: 7.53824757rem;
+  /*background-image: url("../../images/menu_1.jpg");*/
+  /*background-size: 100%;*/
+  position: relative;
+}
+.menu_content > div img{
+  width: 100%;
+  height: 100%;
+}
+.menu_content > div .menu_opa {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 0.01390821rem solid #fefefe;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.menu_content > div .menu_opa .menu_list {
+  width: 100%;
+  height: 2.12795549rem;
+  margin-top: 2.64255911rem;
+}
+.menu_content > div .menu_opa .menu_list p {
+  color: #fff;
+  font-size: 0.34770515rem;
+  text-align: center;
+}
+.menu_content > div .menu_opa .menu_list p span {
+  font-size: 0.13908206rem;
+}
+.menu_content > div .menu_opa .menu_list p span:first-of-type {
+  margin-right: 0.27816412rem;
+}
+.menu_content > div .menu_opa .menu_list p span:last-of-type {
+  margin-left: 0.27816412rem;
+}
+.menu_content > div .menu_opa .menu_list p:nth-of-type(2) {
+  font-size: 0.55632823rem;
+  font-weight: bold;
+  margin: 0.36161335rem 0rem;
+}
+/*.menu_content > div:nth-of-type(2) {*/
+  /*background-image: url("../../images/menu_2.jpeg");*/
+  /*background-size: 100%;*/
+/*}*/

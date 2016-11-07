@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>豆果美食</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link rel="stylesheet" href="css/tabBar.css" />
+
+		<script>
+			(function(window) {
+				var winW = document.documentElement.clientWidth || document.body.clientWidth;
+				document.documentElement.style.fontSize = winW / 10 + "px";
+				window.onresize = function() {
+					var winW = document.documentElement.clientWidth || document.body.clientWidth;
+					document.documentElement.style.fontSize = winW / 10 + "px";
+				}
+
+			}(window));
+		</script>
+
+	</head>
+
+	<body ng-app='myApp'>
+		<!--菜单栏-->
+		<nav class="tabBar"  ng-controller="myTabCtrl" ng-show="toShow">
+			<!--<p style="display: none;">{{toRealse}}</p>-->
+			<ul>
+				<li class="barItem1" ng-click="action1()">
+					<a ui-sref="home">
+						<div class="itemIcon1" ng-class="{'True':'itemIcon1 itemIconChanged1 anim','False':'itemIcon1'}[flag1]"></div>
+						<p ng-class="{'True':'p_fontChanged','False':''}[flag1]">首页</p>
+					</a>
+				</li>
+				<li class="barItem2" ng-click="action2()">
+					<a ui-sref="circle">
+						<div class="itemIcon2" ng-class="{'True':'itemIcon2 itemIconChanged2 anim','False':'itemIcon2'}[flag2]"></div>
+						<p ng-class="{'True':'p_fontChanged','False':''}[flag2]">圈圈</p>
+					</a>
+
+				</li>
+				<li class="barItem" ng-class="{true:'rota',false:''}[flagCenter]" ng-click="addShow(e)">
+					<div>+</div>
+				</li>
+				<li class="barItem3" ng-click="action3()">
+					<a ui-sref="buyGoods">
+						<div class="itemIcon3" ng-class="{'True':'itemIcon3 itemIconChanged3 anim','False':'itemIcon3'}[flag3]"></div>
+						<p ng-class="{'True':'p_fontChanged','False':''}[flag3]">购好货</p>
+					</a>
+
+				</li>
+				<li class="barItem4" ng-click="action4()">
+					<a ui-sref="my">
+						<div class="itemIcon4" ng-class="{'True':'itemIcon4 itemIconChanged4 anim','False':'itemIcon4'}[flag4]"></div>
+						<p ng-class="{'True':'p_fontChanged','False':''}[flag4]">我的</p>
+					</a>
+				</li>
+			</ul>
+		</nav>
+		<p class="index_help"></p>
+
+		<!--加    大框-->
+		<div class="tabBarAdd_box" ng-controller="myTabCtrl">
+			<!--放置左上角的时间-->
+			<div class="tabBarAdd_Time">
+				<div class="tabBarAdd_timeL">
+					{{dat}}
+				</div>
+				<div class="tabBarAdd_timeR">
+					<span>{{day}}
+					{{month}}/{{year}}
+				</span>
+				</div>
+			</div>
+			<!--下面的三个按钮-->
+			<div class="tabBarAdd_menu">
+				<div class="tabBarAdd_l">
+					<img src="./images/add_uploadMenu.png" />
+					<p>上传菜谱</p>
+				</div>
+
+				<div class="tabBarAdd_m">
+					<img src="./images/add_recordFood.png" />
+					<p>记录今日美食</p>
+				</div>
+
+				<div class="tabBarAdd_r">
+					<img src="./images/add_newTopic.png" />
+					<p>发新话题</p>
+				</div>
+			</div>
+
+			<p class="tabBarAdd_drafts">草稿箱</p>
+			<div class="tabBarAdd_close">
+			</div>
+		</div>
+
+		<!-- 各个页面在这显示 -->
+		<div ui-view></div>
+
+		<script src="./script/jQuery.js"></script>
+		<script src="./script/swiper-3.3.1.jquery.min.js"></script>
+
+		<script src="./bower_components/angular/angular.min.js"></script>
+		<script src="./bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+		<script src="./bower_components/angular-css/angular-css.min.js"></script>
+		<script src="./script/app.js"></script>
+
+		<script src="./components/home/home.js"></script>
+		<script src="./components/cart/cart.js"></script>
+		<script src="./components/circle/circle.js"></script>
+		<script src="./components/collection/collection.js"></script>
+		<script src="./components/goods_detail/goods_detail.js"></script>
+		<script src="./components/home_allKind/home_allKind.js"></script>
+		<script src="./components/home_comment/home_comment.js"></script>
+		<script src="./components/home_menu/home_menu.js"></script>
+		<script src="./components/menu/menu.js"></script>
+		<script src="./components/my/my.js"></script>
+		<!--<script src="./components/tabBar_add/tabBar_add.js"></script>-->
+		<script src="./components/today/today.js"></script>
+		<script src="./components/buyGoods/buyGoods.js"></script>
+		<script src="./components/todayNew/todayNew.js"></script>
+		<script src="./components/search_index/search_index.js"></script>
+		<script src="./components/search_result/search_result.js"></script>
+		<script src="./components/comments/comments.js"></script>
+		
+
+	</body>
+
+</html>

@@ -1,0 +1,139 @@
+
+		<div ui-view>
+			<div class="goods_detail">
+
+				<div class="top_goodsDetail">
+					<a ui-sref="home.buyGoods" class="back_goodsDetail"></a>
+					<span class="goodsDetail">商品详情</span>
+					<span class="addToCart">
+						<!--跳转到购物车-->
+						<a ui-sref="buyGoods.goods_detail.cart" >
+							
+							<!--购物车里的数字-->
+						 <span id="numSpan" class="goodscount" ng-controller="goods_detailCtrl">
+						 	{{goodscount}}
+						 </span>
+						</a>
+					</span>
+					<span class="share"></span>
+				</div>
+				<div class="goodsContent">
+					<p class="goodImage">
+						<img ng-src={{result.basic.image}} alt="">
+					</p>
+					<div class="goodsName">{{result.basic.name}}</div>
+					<div class="goodsPrice">
+						<span class="newPrice">￥{{result.basic.price}}</span>
+						<span class="oldPrice">￥{{result.basic.ori_price}}</span>
+						<span class="pinkpage">包邮</span>
+						<span class="discount">领取优惠券 ></span>
+					</div>
+					<div class="saleCount">
+						月售<span class="cut">53</span>件
+						<span class="adr">山东沾化</span>
+					</div>
+					<div class="spec">店铺满￥<span>129</span>包邮</div>
+				</div>
+				<div class="goodsIntroduce">
+					沾化冬枣产于山东沾化区境内，是一种珍贵稀有的鲜食果品。沾化枣5月开花挂果，8月果实着色，9月果实成熟，现正式沾化枣上市的季节，沾化枣个头适中，干脆清甜，细嫩多汁，皮薄核小，新鲜采摘，原产地直发，刚下枝头，甜到舌尖
+				</div>
+				<div class="sendTo common">
+					配送至
+					<span>&gt;</span>
+				</div>
+				<div class="goodsComments common">
+					<p>
+						评价晒单(<span class="goodsCou">16</span>)
+						<span class="goodsGood"><span>87%</span>好评度</span>
+					</p>
+					<ul class="goodsContent1">
+						<li ng-repeat="x in result.comments.list">
+							<p>
+								<img ng-src={{x.userimage}} alt="">
+								<span class="nickName">{{x.nickname}}</span>
+								<span class="goodsGood1"><img src="./images/laugh.png" alt="">好评</span>
+							</p>
+							<p>{{x.content}}</p>
+							<p><span ng-repeat="y in x.img"><img ng-src="{{y}}" alt=""></span></p>
+						</li>
+					</ul>
+					<div>
+						查看更多
+					</div>
+				</div>
+				<div class="storeInfo common">
+					<p>
+						店铺信息
+						<span class="goodsGood">
+            	
+            					<img ng-src="./images/laugh.png" alt="">
+            	
+					<span>豆果认证</span>
+							</span>
+						</p>
+						<dl>
+							<dt>
+								<span><img ng-src={{result.store.image}} alt=""></span>
+							</dt>
+							<dd class="storeName">{{result.store.name}}</dd>
+							<dd>全部商品 <span>36</span></dd>
+							<dd>{{result.store.intro}}</dd>
+							<div class="intoStore">进店逛逛</div>
+						</dl>
+					<div>
+						<span>描述相符 <span>4.8</span></span>
+						<span>服务态度 <span>5.0</span></span>
+						<span>发货速度 <span>5.0</span></span>
+					</div>
+				</div>
+				<!--售后服务-->
+				<div class="goodsService common">
+					<img src="./images/service.png" alt="">
+				</div>
+				<!---->
+				<fieldset>
+					<legend>继续拖动，查看图文详情</legend>
+				</fieldset>
+				<div class="goodsButtom">
+					<table>
+						<tr>
+							<td>产地</td>
+							<td>山东沾化</td>
+						</tr>
+						<tr>
+							<td>存储条件</td>
+							<td>常温/冷藏</td>
+						</tr>
+						<tr>
+							<td>保质期</td>
+							<td>20</td>
+						</tr>
+						<tr>
+							<td>重量（含包装）</td>
+							<td>2500g</td>
+						</tr>
+						<tr>
+							<td>规格</td>
+							<td>袋</td>
+						</tr>
+					</table>
+					<p class="goods_detailButtom">
+						<img src="./images/goods1.jpg" alt="">
+						<img src="./images/goods2.jpg" alt="">
+						<img src="./images/goods3.jpg" alt="">
+						<img src="./images/goods4.jpg" alt="">
+						<img src="./images/goods5.jpg" alt="">
+						<img src="./images/goods6.jpg" alt="">
+					</p>
+				</div>
+				<!--这是加入购物车的图标-->
+				<div class="shopCar" 
+					ng-click="goodsAddToCart(result.basic.id)" 
+					
+					id={{result.basic.id}}>
+					<img src="./images/buyGoods_cart.png" alt="">
+				</div>
+				
+				
+			</div>
+		</div>

@@ -1,0 +1,67 @@
+
+<Header class="cart_head">
+    <a ng-click="clk()" class="cart_back"></a>
+    <p>购物车</p>
+    <span class="cart_update">编辑</span>
+</Header>
+
+<!--购物车内容-->
+<div class="cart_content">
+    <!--<mycart></mycart>-->
+
+    <div class="cart_info" ng-repeat="x in goodsInfo" ng-init="a=x.goodPrice;b=x.allCarNums">
+        <!--<p style="display: none;">{{carisNull}}</p>-->
+        <div class="cart_store">
+            <span class="check_no"></span>
+            <p>{{x.shopName}}</p>
+        </div>
+        <div class="content_info">
+            <span class="check_no"></span>
+            <div class="info_content">
+                <div class="info_img">
+                    <img ng-src="{{x.shopImage}}" alt="">
+                </div>
+                <div class="info_more">
+                    <p><span>{{x.shopIntro}}</span><br />
+                        <span>￥</span><span class="myPrice">{{x.goodPrice}}</span></p>
+                    <p>￥{{x.goodOriPrice}}</p>
+                    <p><span ng-click="goodsSub(x.goodId,event)">-</span>
+                    	
+                    	<!--中间的输入框-->
+    
+                        <span class="aaaa" ng-model="b" >{{x.allCarNums}}</span>
+                        <span ng-click="goodsAdd(x.goodId,event)">+</span></p>
+                </div>
+                <p>此商品促销中不参加店铺满减</p>
+            </div>
+        </div>
+        <div class="cart_favor">
+            <p>
+                <span>满减</span>
+                <span>满59减10</span>
+                <span>-￥0.00</span>
+            </p>
+            <p>
+                <span>包邮</span>
+                <span>店铺满49包邮</span>
+            </p>
+        </div>
+        <div class="cart_mon">
+            <span>小计 （共0件）</span>
+            <span class="money">￥{{a*b}}</span>
+        </div>
+    </div>
+
+    <!--总计-->
+    <div class="cart_all">
+        <span></span>
+        <p>全选</p>
+        <div class="all_info">
+            <p>
+                <span>不含运费</span> 合计：<span>￥0.00</span>
+            </p>
+            <p>为您节省：<span>￥0.00</span></p>
+        </div>
+        <div class="buy_cart">结算<span>（0）</span></div>
+    </div>
+</div>

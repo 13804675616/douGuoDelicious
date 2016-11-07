@@ -1,0 +1,75 @@
+
+		<div ui-view>
+		<!--大框-->
+		<div class="my_box">
+		<p class="help_top"></p>
+			<!--头部-->
+			<header class="my_top">
+				<p>我的<a ui-sref="home"></a>
+					<a ui-sref="home.message"></a></p>
+			</header>
+
+			<!--个人信息-->
+
+			<section class="my_info">
+				<img src="./images/my_photo.png" />
+
+				<p class="my_name">豆果</p>
+				<p class="my_phone">13341234123</p>
+				<p class="my_record">
+					菜谱<span>0</span> 作品
+					<span>0</span> 帖子
+					<span>0</span>
+				</p>
+			</section>
+
+			<!--全部订单部分-->
+			<div class="my_allOrder">
+				<div class="my_allOrderMain">
+					<h6>全部订单</h6>
+
+					<div class="my_mainIcon">
+						<a>
+							<img src="./images/my_icon1.png" />
+							<p>待付款</p>
+						</a>
+						<a>
+							<img src="./images/my_icon2.png" />
+							<p>待发货</p>
+						</a>
+						<a>
+							<img src="./images/my_icon3.png" />
+							<p>待收货</p>
+						</a>
+						<a>
+							<img src="./images/my_icon4.png" />
+							<p>待评价</p>
+						</a>
+					<p class="clearfix"></p>
+					</div>
+					<h6>我的优惠券<span>下单返券</span></h6>
+				</div>
+			</div>
+
+			<ul class="my_menus">
+				<a ui-sref="my.collection"><li>
+					我的收藏
+				</li></a>
+				<li>
+					<a>最近浏览菜谱</a>
+				</li>
+				<li>
+					<a>积分商城</a>
+				</li>
+				<li>
+					<a>采购清单</a>
+				</li>
+				<li>
+					<a>草稿箱</a>
+				</li>
+			</ul>
+			
+
+		</div>
+<p class="help_bottom"></p>
+</div>

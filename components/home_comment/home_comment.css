@@ -1,0 +1,96 @@
+@import "../../css/reset.css";
+
+.home_comment {
+  font-size: 0.41333333rem;
+  font-family: "黑体";
+}
+.home_comment header {
+  text-align: center;
+  height: 1.14666667rem;
+  line-height: 1.14666667rem;
+  background-color: #fdfdfd;
+  width: 100%;
+  border-bottom: 1px solid #e6e6e6;
+  position:fixed;
+  top: 0;
+  left: 0;
+}
+.home_comment header a {
+	display: inline-block;
+  background: url("../../images/bgicon.png") no-repeat -0.4rem -2.90666667rem;
+  background-size: 2.66666667rem;
+  background-color: #fdfdfd;
+  float: left;
+  margin-left: 0.52rem;
+  margin-top: 0.32rem;
+  width: 0.28rem;
+  height: 0.48rem;
+}
+.home_comment h1 {
+  width: 100%;
+  height: 0.24rem;
+  background-color: #f3f2f0;
+}
+.home_comMol {
+  width: 100%;
+  padding-right: 0.56rem;
+  box-sizing: border-box;
+}
+.home_comMol li {
+  text-indent: 0.44rem;
+  padding-top: 0.50666667rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+.home_comMol li > p {
+  margin-top: 0.50666667rem;
+  width: 80%;
+  padding-left: 0.4rem;
+  white-space: pre-wrap
+}
+.home_comMol li dl dt {
+  float: left;
+  margin-right: 0.26666667rem;
+}
+.home_comMol li dl dt img {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+}
+.home_comMol li dl dd:first-of-type {
+  font-size: 0.41333333rem;
+}
+.home_comMol li dl dd:last-of-type {
+  margin-top: 0.13333333rem;
+  font-size: 0.26666667rem;
+  color: #d0d0d0;
+}
+.home_comMy {
+  border-top: 1px solid #e5e5e5;
+  position: fixed;
+  bottom:0;
+  left: 0;
+  background-color: #fff;
+  width: 100%;
+}
+.home_comMy input {
+  height: 1.14666667rem;
+  text-indent: 0.6rem;
+  font-size: 0.33333333rem;
+  color: #c6c6c6;
+  border: none;
+  width: 70%;
+}
+.home_comMy span {
+	margin-bottom: 0.3rem;
+	width: 23%;
+	height: 0.7rem;
+	line-height: .7rem;
+	border: 1px solid #E1E1E1;
+	text-align: center;
+  color: #e28661;
+  font-size: 0.413333rem;
+  float: right;
+  margin-right: 0.34666667rem;
+  margin-top: 0.38666667rem;
+}

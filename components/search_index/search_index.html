@@ -1,0 +1,73 @@
+<div ui-view>
+	<p class="help_top"></p>
+	<div class="top_searchIndex">
+		<a ng-click="clk()"></a>
+		<div class="back_searchIndex">
+			<input type="text" placeholder="输入菜谱名、食材名" 
+				ng-model="searchName">
+		</div>
+		<a  class="searchIndex" 
+			ng-click="searchStart()" ui-sref="home.search_index.search_result"></a>
+	</div>
+	<p class="clearfix"></p>
+	<ul class="nav_search">
+		<li>
+			<a>菜 谱</li>
+		<a>
+			<li>
+				<a>用 户</li>
+			<a>
+				<li>
+					<a>商 品</li>
+				<a>
+	</ul>
+	<div class="tip_search">
+		试试搜索多个食材，“土豆 牛肉”
+	</div>
+	<div class="hotSearch_search">
+		热门搜索
+	</div>
+	<div class="name_search">
+		<ul>
+			<li>
+				<a>汤</a>
+			</li>
+			<li>
+				<a>南瓜</a>
+			</li>
+			
+			<li>
+				<a>芋头</a>
+			</li>
+			
+			<li>
+				<a>山药</a>
+			</li>
+		
+			<li>
+				<a>山楂</a>
+			</li>
+	
+			<li>
+				<a>蟹</a>
+			</li>
+
+		</ul>
+		<p class="clearfix"></p>
+		<div class="hotSearch_search">
+			历史搜索
+		</div>
+		<div class="name_search">
+			<ul ng-repeat="x in his_list track by $index">
+				<li>
+					<a>{{x}}</a>
+				</li>
+				
+
+			</ul>
+			<p class="clearfix"></p>
+			<button class="clearhis" ng-click="clearhis()">清空本次历史记录</button>
+
+		</div>
+	</div>
+	<p class="help_bottom"></p>

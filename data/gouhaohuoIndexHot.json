@@ -1,0 +1,163 @@
+{
+  "status": "OK",
+  "data": {
+    "list": [
+      {
+        "id": "8973",
+        "image": "http://i1.douguo.net/upload/tuan/4/1/4/300_41422f88ab161d9da085be01b0e8b824.jpg",
+        "name": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+        "price": 99,
+        "ori_price": 198,
+        "express_fee": -0.01,
+        "all_sale_count": 1451,
+        "sale_count": 48,
+        "flag": 1,
+        "unit": "件",
+        "limit": "0",
+        "surplus_stock": 452
+      },
+      {
+        "id": "4481",
+        "image": "http://i1.douguo.net/upload/tuan/3/e/a/300_3e855b7503725e7a2c5faad9c2483b7a.jpg",
+        "name": "【买即赠蜂蜜唇膏】舌尖上Honey 新疆黑蜂山花蜂巢蜜 280g/盒",
+        "price": 58,
+        "ori_price": 98,
+        "express_fee": -0.01,
+        "all_sale_count": 650,
+        "sale_count": 0,
+        "flag": 1,
+        "unit": "盒",
+        "limit": "0",
+        "surplus_stock": 220
+      },
+      {
+        "id": "752",
+        "image": "http://i1.douguo.net/upload/tuan/8/d/a/300_8d02955e7e5c4d616fce3c533e6aaffa.jpg",
+        "name": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+        "price": 118,
+        "ori_price": 138,
+        "express_fee": -0.01,
+        "all_sale_count": 5071,
+        "sale_count": 19,
+        "flag": 1,
+        "unit": "份",
+        "limit": "0",
+        "surplus_stock": 481
+      },
+      {
+        "id": "6315",
+        "image": "http://i1.douguo.net/upload/tuan/6/3/6/300_63c77dd1b50313a2d09b2b03f198c726.jpg",
+        "name": "【赠苹果醋248ml】欣和 醯官醋原浆苹果醋500ml*2瓶",
+        "price": 49,
+        "ori_price": 58,
+        "express_fee": -0.01,
+        "all_sale_count": 23,
+        "sale_count": 5,
+        "flag": 1,
+        "unit": "瓶",
+        "limit": "0",
+        "surplus_stock": 9995
+      },
+      {
+        "id": "20951",
+        "image": "http://i1.douguo.net/upload/tuan/e/4/3/300_e4d04cf56e88491cf5a4bd6055c9fe03.jpg",
+        "name": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+        "price": 99,
+        "ori_price": 179,
+        "express_fee": -0.01,
+        "all_sale_count": 176,
+        "sale_count": 171,
+        "flag": 1,
+        "unit": "台",
+        "limit": "0",
+        "surplus_stock": 329
+      },
+      {
+        "id": "20893",
+        "image": "http://i1.douguo.net/upload/tuan/4/b/0/300_4b7c6a8e44235ea241460df0e95ccd70.jpg",
+        "name": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+        "price": 39.9,
+        "ori_price": 69.9,
+        "express_fee": -0.01,
+        "all_sale_count": 53,
+        "sale_count": 4,
+        "flag": 1,
+        "unit": "件",
+        "limit": "0",
+        "surplus_stock": 996
+      },
+      {
+        "id": "20786",
+        "image": "http://i1.douguo.net/upload/tuan/2/0/2/300_20ad6391f5e65edb4828b32217eae2e2.jpg",
+        "name": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+        "price": 79.9,
+        "ori_price": 109,
+        "express_fee": -0.01,
+        "all_sale_count": 136,
+        "sale_count": 4,
+        "flag": 1,
+        "unit": "件",
+        "limit": "0",
+        "surplus_stock": 9996
+      },
+      {
+        "id": "20733",
+        "image": "http://i1.douguo.net/upload/tuan/f/5/7/300_f58e54274e87428d050e6a909cba8267.jpg",
+        "name": "靓禾良仓 2016新米 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+        "price": 29,
+        "ori_price": 49,
+        "express_fee": -0.01,
+        "all_sale_count": 1675,
+        "sale_count": 32,
+        "flag": 1,
+        "unit": "袋",
+        "limit": "0",
+        "surplus_stock": 2000
+      },
+      {
+        "keywords": [
+          {
+            "keyword": "牛排"
+          },
+          {
+            "keyword": "花生油"
+          },
+          {
+            "keyword": "蛋挞皮"
+          },
+          {
+            "keyword": "卡乐比"
+          },
+          {
+            "keyword": "红枣夹核桃"
+          },
+          {
+            "keyword": "大米"
+          },
+          {
+            "keyword": "北极甜虾"
+          },
+          {
+            "keyword": "淡奶油"
+          }
+        ],
+        "name": "大家都在买"
+      },
+      {
+        "id": "20569",
+        "image": "http://i1.douguo.net/upload/tuan/2/3/3/300_2396d45010f1cc52ca325bfe6adc23e3.jpg",
+        "name": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+        "price": 139,
+        "ori_price": 179,
+        "express_fee": -0.01,
+        "all_sale_count": 391,
+        "sale_count": 136,
+        "flag": 1,
+        "unit": "台",
+        "limit": "0",
+        "surplus_stock": 364
+      }
+    ],
+    "tsn": 1
+  }
+}

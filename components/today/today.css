@@ -1,0 +1,132 @@
+@import url("../../css/reset.css");
+
+.today_clearfix {
+  height: 1.22392211rem;
+}
+.today_intro .today_date {
+  text-align: center;
+  width: 100%;
+  height: 2.12795549rem;
+  line-height: 2.12795549rem;
+  font-size: 0.52851182rem;
+  font-family: "黑体";
+}
+.today_intro .today_writer {
+  height: 0.69541029rem;
+  line-height: 0.69541029rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.36161335rem;
+  font-family: "微软雅黑";
+}
+.today_intro .today_writer img {
+  width: 0.69541029rem;
+  height: 0.69541029rem;
+  border-radius: 0.34770515rem;
+  margin-right: 0.29207232rem;
+}
+.today_intro .today_info {
+  /*height: 5.30180807rem;*/
+  padding: 0.31988873rem 0.97357441rem 0 0.57023644rem;
+  font-size: 0.40333797rem;
+}
+.today_intro .today_info p {
+  line-height: 0.77885953rem;
+  font-family: "微软雅黑";
+}
+.today_cookbook {
+  width: 100%;
+}
+.today_cookbook .today_title {
+  height: 1.46036161rem;
+  line-height: 1.46036161rem;
+  text-align: center;
+  font-size: 0.38942976rem;
+  font-family: "微软雅黑";
+  font-weight: 600;
+}
+.today_cookbook .today_title span {
+  width: 0.50069541rem;
+  height: 100%;
+  display: inline-block;
+  text-decoration: line-through;
+}
+.today_items {
+  width: 100%;
+}
+.today_item {
+  width: 100%;
+}
+.today_item .today_picture {
+  width: 100%;
+  height: 5.98666667rem;
+  position: relative;
+}
+.today_item .today_picture img {
+  width: 100%;
+  height: 100%;
+}
+.today_item .today_picture p {
+  font-size: 0.26666667rem;
+  color: white;
+  text-indent: 5.33333333rem;
+  position: absolute;
+  bottom: 0.66666667rem;
+  right: 0.66666667rem;
+}
+.today_item .today_picture p img {
+  display: inline-block;
+  width: 0.30666667rem;
+  height: 0.22666667rem;
+}
+.today_item .today_picture p span {
+  margin-left: 0.13333333rem;
+  font-family: "微软雅黑";
+  font-weight: bold;
+}
+.today_item .today_intro {
+  width: 100%;
+  text-align: center;
+}
+.today_item .today_intro h1 {
+  height: 1.54666667rem;
+  line-height: 1.54666667rem;
+  font-size: 0.50666667rem;
+  font-family: "微软雅黑";
+}
+.today_item .today_intro .today_writer {
+  height: 0.68rem;
+  line-height: 0.68rem;
+}
+.today_item .today_intro .today_writer img {
+  display: inline-block;
+  width: 0.68rem;
+  height: 0.68rem;
+  vertical-align: middle;
+  border-radius: 0.33333333rem;
+}
+.today_item .today_intro .today_writer span {
+  vertical-align: middle;
+  display: inline-block;
+  height: 0.68rem;
+  line-height: 0.68rem;
+  font-size: 0.34666667rem;
+  font-family: "微软雅黑";
+  color: #858585;
+}
+.today_item .today_intro .today_info {
+  padding: 0.54666667rem 0.54666667rem 0 0.54666667rem;
+  font-size: 0.34666667rem;
+  color: #858585;
+  font-family: "微软雅黑";
+  height: 1.52rem;
+  line-height: 0.58666667rem;
+  overflow: hidden;
+  white-space: wrap;
+  text-overflow: ellipsis;
+}
+.today_clearfix1 {
+  height: 0.40333797rem;
+  background-color: #f3f2f0;
+}

@@ -1,0 +1,85 @@
+<div ui-view="">
+	<div id="today_box">
+		<div class="todayNew_header">
+			<a ui-sref="home" class="todayNew_return"></a>
+			菜单
+			<span class="todayNew_go" ng-click="releaseMenu()">
+				<div ng-class="{true:'childMenu',false:'hide'}[isShowMenu]">
+						<a><img src="./images/home_menuTop22.png"/></a>
+						<a><img src="./images/home_menuTop33.png"/></a>
+				</div>
+				
+				
+				</span>
+		</div>
+
+		<div class="today_clearfix"></div>
+
+		<div class="today_infoDetail">
+			<div class="today_intro">
+				<p class="today_date">
+					{{data.food_title}}
+				</p>
+				<p class="today_writer"><img ng-src={{data.mana_img}} />{{data.mana_id}}</p>
+				<div class="today_info">
+					<!--<p>还在烦恼今天吃什么的问题吗？最近流行的菜都有哪些？大家都在吃什么好吃的？当季热门的食材怎么做更好吃？</p>
+						<p>看这里，新鲜流行菜谱推荐给你。每天发布的最新菜谱，都有机会进菜单，推上首页！还有可能成为菜单封面成为今日最佳哦~</p>
+						<p>你做的好吃的被更多人看到，下一个引领美食潮流的人就是你！</p>-->
+					{{data.food_introduce}}
+				</div>
+			</div>
+
+			<div class="today_cookbook">
+				<div class="today_title">
+					<span>&nbsp;&nbsp;&nbsp;&nbsp;</span> {{data.foods_num}}
+					<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				</div>
+
+				<!--<div class="home_items" ng-if="x.exp1">-->
+				<!--<p style="display: none;">{{x.exp1}}</p>-->
+				<!--<div class="home_item" ng-click="toInfo(x.id)" ui-sref="home.home_menu">-->
+				<!--<div class="home_picture">-->
+				<!--<img ng-src={{x.food_img}} />-->
+				<!--<p class="home_collect">-->
+				<!--<img src="./images/look.png" /><span>{{x.food_look}}</span>&nbsp;&nbsp;-->
+				<!--<img src="./images/collect.png" /><span>{{x.food_collect}}</span>-->
+				<!--</p>-->
+				<!--</div>-->
+
+				<!--<div class="home_clearfix"></div>-->
+
+				<!--<div class="home_intro">-->
+				<!--<h1>{{x.food_name}}</h1>-->
+				<!--<p class="home_writer"><img ng-src={{x.user_img}} /><span>{{x.user_id}}</span></p>-->
+				<!--<p class="home_info">{{x.food_intro}}-->
+				<!--</p>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--</div>-->
+
+				<div class="today_items" ng-repeat="x in data.foods_gather">
+					<div class="today_item" ng-click="toInfo(x.id)" ui-sref="home.today.home_menu">
+						<div class="today_picture">
+							<img ng-src={{x.food_img}} />
+							<p class="today_collect">
+								<img src="./images/look.png" /><span>{{x.food_look}}</span>&nbsp;&nbsp;
+								<img src="./images/collect.png" /><span>{{x.food_collect}}</span>
+							</p>
+						</div>
+
+						<div class="today_intro">
+							<h1>{{x.food_name}}</h1>
+							<p class="today_writer"><img ng-src={{x.users_img}} /><span>{{x.user_name}}</span></p>
+							<p class="today_info">{{x.food_more}}
+							</p>
+						</div>
+					</div>
+
+					<div class="today_clearfix1"></div>
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,120 @@
+/*body {
+  background-color: #f3f2f0;
+}*/
+.top_searchIndex a:first-of-type{
+	float: left;
+	width: 0.4rem;
+	height: 0.4rem;
+	margin: 0 0.5rem;
+	background: url('../../images/home_menuTop11.png') center;
+	background-size: 0.4rem;
+	
+}
+.top_searchIndex a:last-of-type{
+	width: 0.4rem;
+	height: 0.4rem;
+	float: left;
+	margin-left: 0.5rem;
+	background: url('../../images/search.png') no-repeat center;
+	background-size: 0.4rem;
+}
+
+.top_searchIndex {
+  background-color: #fdfdfd;
+  width: 100%;
+  height: 1.21001391rem;
+  position: fixed;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.top_searchIndex .back_searchIndex {
+	float: left;
+  width: 6.76216968rem;
+  height: 0.77885953rem;
+}
+.top_searchIndex .back_searchIndex input {
+	/*vertical-align: middle;*/
+  float: left;
+  border: none;
+  background: #f3f2f0;
+  width: 6rem;
+  height: 0.69541029rem;
+  padding-left: 0.6rem;
+  font-size: 0.391724618rem;
+  text-indent: 0.52851182rem;
+  border-radius: 8px;
+}
+.top_searchIndex .back_searchIndex input:focus {
+  outline: none;
+}
+.top_searchIndex .searchIndex {
+  font-size: 0.39069541rem;
+  color: #000000;
+}
+.nav_search {
+  background-color: #ffffff;
+  height: 1.26564673rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0.65368567rem;
+  box-sizing: border-box;
+}
+.nav_search li {
+  width: 2.10013908rem;
+  font-size: 0.45897079rem;
+  line-height: 1.26564673rem;
+  text-align: center;
+}
+.nav_search li:hover {
+  border-bottom: 0.04172462rem solid #000000;
+}
+.tip_search {
+  height: 0.7093185rem;
+  line-height: 0.7093185rem;
+  text-align: center;
+  color: #ffffff;
+  font-size: 0.36161335rem;
+  background-color: #cecdcb;
+}
+.hotSearch_search {
+  color: #000000;
+  line-height: 1.40472879rem;
+  text-indent: 0.08344924rem;
+  font-weight: bold;
+  font-size: 0.42rem;
+}
+.name_search {
+  background: #ffffff;
+  margin: 0 auto;
+
+  font-size: 0.38942976rem;
+}
+.name_search ul{
+	width: 100%;
+
+}
+.name_search ul li {
+	float: left;
+  padding: 0 1.1rem;
+  text-align: center;
+   height: 1.21001391rem;
+  line-height: 1.21001391rem;
+  border-collapse: separate;
+  border: 0.01390821px dashed #aaaaaa;
+  margin: 0.1rem;
+ 
+}
+.hisSearch_search{
+	width: 100%;
+	margin: 0.4rem;
+	padding-bottom: 0.4rem;
+}
+.clearhis{
+	padding: 0.5rem;
+	background-color: transparent;
+	font-weight: bold;
+	border: 1px solid #E1E1E1;
+	border-radius: 15px;
+	margin-left: 3.1rem;
+}

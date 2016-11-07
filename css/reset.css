@@ -1,0 +1,22 @@
+@charset "utf-8";
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img,div{ margin:0; padding:0; }
+ul, ol { list-style:none; }
+
+html,body{
+    height: 100%;
+    overflow-x: hidden;
+    font-family: "黑体";
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.clearfix{
+	clear: both;
+}
+.help_bottom{
+	height: 1.32rem;
+}
+.help_top{
+	height: 1.14666667rem;
+}

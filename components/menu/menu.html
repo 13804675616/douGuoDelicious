@@ -1,0 +1,23 @@
+<div ui-view="">
+<Header class="menu_head">
+    <a ui-sref="home" class="menu_back"></a>
+    <p>精品菜单</p>
+    <span class="menu_update"></span>
+</Header>
+
+<div class="menu_content">
+    <div ng-repeat="x in dataTodayNew">
+        <a  ng-click="toInfo(x.id)" ui-sref="home.todayNew.home_menu" >
+        <img ng-src={{x.food_img}} alt="" />
+
+        <div class="menu_opa">
+            <div class="menu_list" >
+                <p><span>◆</span>共{{x.cou}}道菜<span>◆</span></p>
+                <p>今天吃什么？10.8日流行菜谱</p>
+                <p>由{{x.user_name}}创建</p>
+            </div>
+        </div>
+        </a>
+    </div>
+</div>
+ </div>

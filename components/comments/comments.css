@@ -1,0 +1,122 @@
+@import "../../css/reset.css";
+
+.clearfix {
+  clear: both;
+}
+.comments_box{
+  font-family: "微软雅黑";
+}
+.comments_top{
+	width: 100%;
+  text-align: center;
+  height: 1.22392rem;
+  
+  line-height: 1.22392rem;
+  border-bottom: 1px solid #e6e6e6;
+  background-color: #fff;
+  /*background-color: red;*/
+  position: fixed;
+  left: 0;
+  top: 0;
+  font-size:0.41333333rem;
+  z-index: 40;
+}
+.comments_top a {
+	display: inline-block;
+ 
+}
+.comments_top  a:first-of-type {
+ background: url("../../images/bgicon.png") no-repeat -0.4rem -2.90666667rem;
+  background-size: 2.66666667rem;
+  background-color: #fdfdfd;
+	width:1rem;
+	height: 1rem;
+  float: left;
+  margin-left: 0.52rem;
+  margin-top: 0.32rem;
+  width: 0.28rem;
+  height: 0.48rem;
+}
+.comments_top  a:last-of-type {
+	 background: url("../../images/delete.png") no-repeat center;
+  background-size: 0.41333333rem 0.44rem;
+  /*background-position: 0 -1.86666667rem;*/
+  float: right;
+  margin-right: 0.46666667rem;
+  margin-top: 0.34666667rem;
+  width: 0.51333333rem;
+  height: 0.51333333rem;
+}
+.comments_help{
+	height:1.22392rem;
+}
+.comments_item{
+	background: white;
+	padding:0.417246rem;
+	box-sizing: border-box;
+	
+}
+.comments_title{
+	height: 1.515994rem;
+	/*width: 100%;*/
+}
+
+.comments_title dl{
+	height:100%;
+	
+}
+.comments_title dl dt{
+	height: 100%;
+	float: left;
+
+}
+.comments_title dl dt img{
+	vertical-align: top;
+	width: 0.876217rem;
+	height: 0.876217rem;
+	border-radius: 0.4rem;
+}
+.comments_title dl dd{
+
+	font-size: 0.361613rem;
+	height: 100%;
+	float: left;
+	margin-left: 0.27816rem;
+	
+	
+}
+.comments_title dl dd p:last-of-type{
+	margin-top: 0.18081rem;
+	font-size: 0.25035rem;
+	color: #a5a5a5;
+}
+.comments_myWord{
+	height: 0.80667rem;
+	line-height:  0.80667rem;
+	font-size: 0.319888rem;
+	color: #969696;
+	background: #f6f6f6;
+}
+.comments_myWord span{
+	font-size: 0.35rem;
+}
+.comments_hisWord{
+	margin-top: 0.319888rem;
+	font-size: 0.40334rem;
+	color: #3d3d3d;
+}
+.comments_reply{
+	height: 1.11266rem;
+	line-height: 1.11266rem;
+}
+.comments_reply span{
+	font-size: 0.29207rem;
+	color: #e28f65;
+	float: right;
+}
+.comments_end{
+	width: 100%;
+	height: 1.18219rem;
+	background: url('../../images/end.png') no-repeat;
+	background-size: 100%;
+}

@@ -1,0 +1,44 @@
+<div ui-view="">
+	<div id="todayNew_box">
+		<div class="todayNew_header">
+			<a ui-sref="home" class="todayNew_return"></a>
+			菜单
+			<span class="todayNew_go" ng-click="releaseMenu()">
+				<div ng-class="{true:'childMenu',false:'hide'}[isShowMenu]">
+						<a><img src="./images/home_menuTop22.png"/></a>
+						<a><img src="./images/home_menuTop33.png"/></a>
+				</div>
+				
+				
+				</span>
+		</div>
+
+		<div class="todayNew_clearfix"></div>
+
+		<div class="todayNew_cookbook">
+			<div class="todayNew_item" ng-repeat="x in dataTodayHot">
+				<a ng-click="toInfo(x.id)" ui-sref="home.todayNew.home_menu">
+					<div class="todayNew_picture">
+						<img ng-src={{x.food_img}} />
+						<p class="todayNew_collect">
+							<img src="./images/look.png" /><span>{{x.food_look}}</span>&nbsp;&nbsp;
+							<img src="./images/collect.png" /><span>{{x.food_collect}}</span>
+						</p>
+					</div>
+
+					<div class="todayNew_intro">
+						<h1>{{x.food_name}}</h1>
+						<p class="todayNew_writer">
+							<img ng-src={{x.users_img}} alt="" />
+							<span>{{x.user_name}}</span>
+						</p>
+						<p class="todayNew_info">{{x.food_more}}
+						</p>
+					</div>
+				</a>
+			</div>
+		</div>
+
+	</div>
+
+</div>

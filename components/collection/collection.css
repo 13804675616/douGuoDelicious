@@ -1,0 +1,180 @@
+html,
+body,
+div,
+p,
+span,
+dl,
+dt,
+dd,
+ul,
+li,
+a,
+header,
+footer,
+nav,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+section,
+img,
+input {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+ul,
+li {
+  list-style: none;
+}
+
+#collection_box {
+  width: 100%;
+}
+#collection_box .collection_header {
+	z-index: 40;
+  background-color: white;
+  width: 100%;
+  height: 1.17333333rem;
+  line-height: 1.17333333rem;
+  display: flex;
+  align-items: center;
+  font-size: 0.41333333rem;
+  font-family: "微软雅黑";
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-bottom: 0.01333333rem solid #e6e6e6;
+}
+#collection_box .collection_header .collection_return {
+  display: inline-block;
+  width: 0.28rem;
+  height: 0.52rem;
+  background: url(../../images/bgAll.png) no-repeat;
+  background-position: -0.4rem -2.8rem;
+  background-size: 2.66666667rem;
+  float: left;
+  margin-left: 0.52rem;
+}
+#collection_box .collection_header span {
+  display: inline-block;
+  height: 1.06666667rem;
+}
+#collection_box .collection_header span a {
+  padding-left: 0.22666667rem;
+  padding-right: 0.22666667rem;
+  display: inline-block;
+  height: 100%;
+  font-size: 0.37333333rem;
+}
+#collection_box .collection_header span .collection_all {
+  margin-left: 2.16rem;
+  margin-right: 0.41333333rem;
+  border-bottom: 0.05333333rem solid #000000;
+}
+#collection_box .collection_clearfix {
+  height: 1.17333333rem;
+}
+#collection_box .collection_search {
+  width: 100%;
+  height: 1.14666667rem;
+  border-bottom: 0.01333333rem solid #e6e6e6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+#collection_box .collection_search input {
+  width: 9.57333333rem;
+  height: 0.74666667rem;
+  border-radius: 0.13333333rem;
+  border: none;
+  text-align: center;
+  color: #919296;
+  font-family: "微软雅黑";
+  background: url(../../images/search.png) no-repeat 3.89429764rem 0.19471488rem;
+  background-color: #e9eaec;
+  background-size: 0.37552156rem 0.37552156rem;
+}
+#collection_box .collection_items {
+  width: 100%;
+}
+.collection_item {
+  width: 100%;
+  padding: 0.4rem;
+  box-sizing: border-box;
+  height: 3.33333333rem;
+}
+.collection_item dl {
+  overflow: hidden;
+}
+.collection_item dl dt {
+  width: 3.33333333rem;
+  height: 2.53333333rem;
+  position: relative;
+  float: left;
+}
+.collection_item dl dt img {
+  width: 100%;
+  height: 100%;
+}
+.collection_item dl dt span {
+  width: 1.01333333rem;
+  height: 0.49333333rem;
+  line-height: 0.49333333rem;
+  font-family: "微软雅黑";
+  text-align: center;
+  position: absolute;
+  top: 0.13333333rem;
+  left: 0.13333333rem;
+  background-color: #41ba51;
+  color: white;
+  display: inline-block;
+  border-radius: 0.10666667rem;
+  font-size: 0.28rem;
+}
+.collection_item dl dd {
+  width: 5.46666667rem;
+  height: 2.53333333rem;
+  float: left;
+  margin-left: 0.4rem;
+}
+.collection_item dl dd p {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-family: "微软雅黑";
+}
+.collection_item dl dd .collection_name {
+  font-size: 0.41333333rem;
+  color: #454545;
+  height: 0.54666667rem;
+  line-height: 0.54666667rem;
+}
+.collection_item dl dd .collection_type {
+  height: 0.94666667rem;
+  line-height: 0.94666667rem;
+  font-size: 0.28rem;
+  color: #313131;
+}
+.collection_item dl dd .collection_place {
+  font-size: 0.28rem;
+  color: #a4a4a4;
+  height: 0.28rem;
+  line-height: 0.28rem;
+}
+.collection_item dl dd .collection_collectNum {
+  height: 0.77333333rem;
+  line-height: 0.77333333rem;
+  color: #999999;
+  font-size: 0.29333333rem;
+}

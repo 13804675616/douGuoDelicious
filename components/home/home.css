@@ -1,0 +1,345 @@
+@import "../../css/reset.css";
+#home_box .home_header {
+	width: 100%;
+	text-align: center;
+	height: 1.22392211rem;
+	display: flex;
+	align-items: center;
+	position: fixed;
+	top: 0;
+	background-color: #fff;
+	z-index: 40;
+}
+
+#home_box .home_header a.home_ser {
+	padding-left: 1rem;
+	border: none;
+	font-size: 0.41333333rem;
+	margin-left: 1.39082058rem;
+	width: 6.16272601rem;
+	height: 0.7093185rem;
+	border-radius: 0.13908206rem;
+	background: url(../../images/search.png) no-repeat 0.418637rem 0.19471488rem;
+	background-size: 0.37552156rem 0.37552156rem;
+	background-color: #f4f2f3;
+	color: #afaeac;
+	text-align: center;
+}
+
+#home_box .home_header a {
+	display: flex;
+	align-items: center;
+	float: left;
+	width: 0.44506259rem;
+	height: 0.4867872rem;
+	vertical-align: middle;
+	margin-left: 0.41724618rem;
+	position: relative;
+}
+
+#home_box .home_header a img {
+	width: 0.44506259rem;
+	height: 0.7093185rem;
+}
+
+#home_box .home_header a span {
+	width: 0.41724618rem;
+	height: 0.41724618rem;
+	border-radius: 0.20862309rem;
+	background-color: orangered;
+	position: absolute;
+	top: -0.13908206rem;
+	right: -0.27816412rem;
+	color: white;
+	font-weight: 800;
+	font-size: 0.30598053rem;
+}
+
+.home_banner {
+	/*position: fixed;*/
+	/*top: 1.22392211rem;*/
+	height: 6.41168289rem;
+	width: 100%;
+	/*overflow: hidden;*/
+}
+.swiper-scrollbar {
+	background-color: #fff !important;
+}
+
+.home_banner a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	/*background: url(../../images/doujiao.jpeg) no-repeat;*/
+	/*background-size: 100% 100%;*/
+	/*-webkit-box-sizing: border-box;*/
+	/*-moz-box-sizing: border-box;*/
+	/*box-sizing: border-box;*/
+	border: 0.01390821rem solid transparent;
+	position: relative;
+}
+.home_banner a>img{
+	width: 100%;
+	height: 100%;
+}
+
+.home_banner>a {
+	width: 100%;
+	height: 100%;
+}
+
+.slider .swiper-slide img {
+	width: 10rem;
+	height: 6.41168289rem;
+}
+
+.home_banner a .home_title1 {
+	text-align: center;
+	width: 100%;
+	/*margin-top: 4.15855355rem;*/
+	height: 1.15438108rem;
+	line-height: 1.15438108rem;
+	color: white;
+	font-size: 0.51460362rem;
+	font-family: "黑体";
+	font-weight: 700;
+	letter-spacing: 0.19471488rem;
+	position: absolute;
+	top: 4.15855355rem;
+}
+
+.home_banner a .home_title2 {
+	width: 100%;
+	text-align: center;
+	height: 0.65368567rem;
+	line-height: 0.65368567rem;
+	color: #fbf2e9;
+	font-family: "华文细黑";
+	font-size: 0.33379694rem;
+	position: absolute;
+	top: 5.15855355rem;
+}
+
+.home_banner a .home_title2 img {
+	vertical-align: middle;
+	width: 0.65368567rem;
+	height: 0.65368567rem;
+	border-radius: 0.33379694rem;
+}
+
+.home_banner> span {
+	position: absolute;
+	bottom: 0.02781641rem;
+	left: 0;
+	height: 0;
+	width: 25%;
+	border: 0.01390821rem solid #ff4500;
+}
+
+.home_menu {
+	width: 100%;
+	height: 2.65646732rem;
+}
+
+.home_menu dl {
+	float: left;
+	width: 25%;
+	height: 100%;
+	text-align: center;
+}
+
+.home_menu dl dt {
+	margin-top: 0.59805285rem;
+	width: 0.84840056rem;
+	height: 0.84840056rem;
+	display: inline-block;
+}
+
+.home_menu dl dt a {
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+}
+
+.home_menu dl dt a img {
+	width: 100%;
+	height: 100%;
+}
+
+.home_menu dl dd {
+	margin-top: 0.13908206rem;
+	font-size: 0.30598053rem;
+	color: #5f5f5f;
+	font-family: "微软雅黑";
+}
+
+.home_clearfix {
+	width: 100%;
+	height: 0.40333797rem;
+	background-color: #f3f2f0;
+}
+
+.home_popular {
+	height: 5.28511822rem;
+	width: 100%;
+	position: relative;
+}
+
+.home_popular .home_in {
+	width: 100%;
+	height: 100%;
+}
+
+.home_popular .home_in a {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.home_popular .home_in a img {
+	width: 100%;
+	height: 100%;
+}
+
+.home_popular .home_cover {
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	background: rgba(100, 100, 100, 0.3);
+}
+
+.home_popular .home_cover .home_number {
+	font-family: "微软雅黑";
+	margin-top: 2.71210014rem;
+	height: 0.37552156rem;
+	line-height: 0.37552156rem;
+	color: white;
+	font-size: 0.37552156rem;
+}
+
+.home_popular .home_cover .home_number span {
+	font-weight: 700;
+}
+
+.home_popular .home_cover .home_date {
+	font-family: "微软雅黑";
+	height: 1.37691238rem;
+	line-height: 1.37691238rem;
+	font-size: 0.52851182rem;
+	color: white;
+	font-weight: 500;
+}
+
+.home_popular .home_cover .home_date span {
+	font-weight: 900;
+}
+
+.home_popular .home_cover .home_writer {
+	height: 0.40333797rem;
+	line-height: 0.40333797rem;
+	font-size: 0.36161335rem;
+	color: white;
+	font-family: "华文细黑";
+	opacity: 0.7;
+}
+
+.home_clearfix2 {
+	width: 100%;
+	height: 0.40333797rem;
+	background-color: white;
+}
+
+.home_item {
+	width: 100%;
+}
+
+.home_item .home_picture {
+	width: 100%;
+	height: 5.98666667rem;
+	position: relative;
+}
+
+.home_item .home_picture img {
+	width: 100%;
+	height: 100%;
+}
+
+.home_item .home_picture p {
+	font-size: 0.26666667rem;
+	color: white;
+	text-indent: 3.33333333rem;
+	position: absolute;
+	bottom: 0.66666667rem;
+	right: 0.66666667rem;
+}
+
+.home_item .home_picture p img {
+	display: inline-block;
+	width: 0.30666667rem;
+	height: 0.22666667rem;
+}
+
+.home_item .home_picture p span {
+	margin-left: 0.13333333rem;
+	font-family: "微软雅黑";
+	font-weight: bold;
+}
+
+.home_item .home_intro {
+	width: 100%;
+	text-align: center;
+}
+
+.home_item .home_intro h1 {
+	height: 1.54666667rem;
+	line-height: 1.54666667rem;
+	font-size: 0.50666667rem;
+	font-family: "微软雅黑";
+}
+
+.home_item .home_intro .home_writer {
+	height: 0.68rem;
+	line-height: 0.68rem;
+}
+
+.home_item .home_intro .home_writer img {
+	display: inline-block;
+	width: 0.68rem;
+	height: 0.68rem;
+	vertical-align: middle;
+	border-radius: 0.33333333rem;
+}
+
+.home_item .home_intro .home_writer span {
+	vertical-align: middle;
+	display: inline-block;
+	height: 0.68rem;
+	line-height: 0.68rem;
+	font-size: 0.34666667rem;
+	font-family: "微软雅黑";
+	color: #858585;
+}
+
+.home_item .home_intro .home_info {
+	padding: 0.54666667rem 0.54666667rem 0 0.54666667rem;
+	font-size: 0.34666667rem;
+	color: #858585;
+	font-family: "微软雅黑";
+	height: 1.38666667rem;
+	line-height: 0.68666667rem;
+	text-overflow: -o-ellipsis-lastline;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	display: -webkit-box;
+}
+
+.home_clearfix3 {
+	height: 1.70666667rem;
+	background-color: #f3f2ee;
+}

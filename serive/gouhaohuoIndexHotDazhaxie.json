@@ -1,0 +1,1343 @@
+{
+  "status": "OK",
+  "data": {
+    "area_code": false,
+    "id": "8973",
+    "relations": [],
+    "shop": [
+      {
+        "store": {
+          "id": "10604856",
+          "name": "九百亩旗舰店",
+          "intro": "阳澄湖大闸蟹行业品牌典范",
+          "image": "http://i1.douguo.net//upload/tuan/9/3/e/140_93926409d6df309a1281e244099b70ce.jpg"
+        },
+        "score": {
+          "total": 526,
+          "gRate": 100
+        },
+        "basic": {
+          "id": "8973",
+          "image": "http://i1.douguo.net/upload/tuan/4/1/4/300_41422f88ab161d9da085be01b0e8b824.jpg",
+          "name": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+          "price": 99,
+          "ori_price": 198,
+          "express_fee": -0.01,
+          "all_sale_count": 1451,
+          "sale_count": 48,
+          "flag": 1,
+          "unit": "件",
+          "limit": "0",
+          "surplus_stock": 452
+        },
+        "store_status": {
+          "store_id": "10604856",
+          "goods_num": "0",
+          "comment_num": "0",
+          "express_average": "50",
+          "deliver_average": "50",
+          "service_average": "49",
+          "express_num": "1995",
+          "deliver_num": "1995",
+          "service_num": "1979"
+        },
+        "total_goods_num": "30",
+
+        "comments":{
+          "score": "3",
+          "total": 132,
+          "list": [
+            {
+              "createtime": "2016-10-13 16:40:01",
+              "content": "太生猛了，有一个绳子松了，被蟹夹了。",
+              "title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/9/5/e/95fd25a4901b747de7a9ffb6aedcbb2e.jpg",
+                "http://i1.douguo.net//upload/tuan/b/f/4/bfa4b3043b8fb583054d2d444c133ff4.jpg",
+                "http://i1.douguo.net//upload/tuan/8/1/c/814dd45cdd1f59da131f6402ec5f74ac.jpg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u76196273527609",
+              "nickname": "牛的归来",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-13 11:11:30",
+              "content": "收到螃蟹个个都是鲜活的，一个螃蟹不小心松绑了，精力充沛，很好",
+              "title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u2836828371823",
+              "nickname": "宝贝小小皓",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-13 10:29:04",
+              "content": "全活 个头也不算小 99元超值",
+              "title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/4/d/3/4dd302f74b18de28ff099c5b221a4ef3.jpeg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u7480376539756",
+              "nickname": "琳琳杨愿望成真",
+              "userimage": "http://tx2.douguo.net/upload/photo/5/d/e/70_u7480376539756194246.jpeg"
+            },
+            {
+              "createtime": "2016-10-13 08:29:06",
+              "content": "螃蟹非常好 还会再买",
+              "title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u84705834503435",
+              "nickname": "好多名字都被注册了",
+              "userimage": "http://tx2.douguo.net/upload/photo/0/4/e/70_u84705834503435084240.jpeg"
+            },
+            {
+              "createtime": "2016-10-12 23:41:10",
+              "content": "几个小时前刚收到，然后刚收到就蒸了吃了！味道不错，去年也买过两次，一直不错！希望不断保持",
+              "title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u06639522586061",
+              "nickname": "养蜂人家的孩子",
+              "userimage": "http://tx2.douguo.net/upload/photo/7/d/5/70_u06639522586061224301.jpg"
+            },
+            {
+              "createtime": "2016-10-12 21:40:47",
+              "content": "爸妈还有奶奶都说好好吃，盘锦蟹子好吃的多～",
+              "title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u05703562847788",
+              "nickname": "肉沫小姐",
+              "userimage": "http://tx2.douguo.net/upload/photo/0/d/d/70_u05703562847788182635.jpeg"
+            },
+            {
+              "createtime": "2016-10-12 20:25:01",
+              "content": "好",
+              "title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u3468771888393",
+              "nickname": "泥土的微笑3",
+              "userimage": "http://tx2.douguo.net/upload/photo/2/c/5/70_u3468771888393155047.jpg"
+            }
+          ]
+        }
+
+
+
+
+      },
+      {
+        "store": {
+          "id": "9424742",
+          "name": "绿百沃优选专营店",
+          "intro": "2016年正品新疆黑蜂巢蜜已上架销售……",
+          "image": "http://i1.douguo.net//upload/store/b/9/1/140_b9f75e9b8764d989437a856eef1b0e21.jpg"
+        },
+        "score": {
+          "total": 133,
+          "gRate": 99
+        },
+        "basic": {
+          "id": "4481",
+          "image": "http://i1.douguo.net/upload/tuan/3/e/a/300_3e855b7503725e7a2c5faad9c2483b7a.jpg",
+          "name": "【买即赠蜂蜜唇膏】舌尖上Honey 新疆黑蜂山花蜂巢蜜 280g/盒",
+          "price": 58,
+          "ori_price": 98,
+          "express_fee": -0.01,
+          "all_sale_count": 650,
+          "sale_count": 0,
+          "flag": 1,
+          "unit": "盒",
+          "limit": "0",
+          "surplus_stock": 220
+        },
+        "store_status": {
+          "store_id": "9424742",
+          "goods_num": "0",
+          "comment_num": "0",
+          "express_average": "47",
+          "deliver_average": "48",
+          "service_average": "49",
+          "express_num": "1182",
+          "deliver_num": "1179",
+          "service_num": "1171"
+        },
+        "total_goods_num": "10",
+        "comments":{
+        "score": "3",
+        "total": 526,
+        "list": [
+          {
+            "createtime": "2016-10-11 09:35:48",
+            "content": "快就一个字，我只说一次",
+            "title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+            "img": [
+              "http://i1.douguo.net//upload/tuan/6/e/b/6ed036d9c581ef2504d4378eeb76185b.jpeg",
+              "http://i1.douguo.net//upload/tuan/c/b/d/cb3b3d11c9b739c584e2e39a78a5624d.jpeg",
+              "http://i1.douguo.net//upload/tuan/d/d/1/dd18c6fced3e2e64e7effd3e879fd421.jpeg"
+            ],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u81763102642948",
+            "nickname": "Lemon萌萌",
+            "userimage": "http://tx2.douguo.net/upload/photo/3/2/8/70_u81763102642948230643.jpg"
+          },
+          {
+            "createtime": "2016-10-09 23:34:42",
+            "content": "好评",
+            "title": "现货 九百亩阳澄大闸蟹鲜活螃蟹 全母2.6-2.3两8只",
+            "img": [],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u29365026974785",
+            "nickname": "知识产权法律服务",
+            "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+          },
+          {
+            "createtime": "2016-10-07 18:43:53",
+            "content": "好评",
+            "title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+            "img": [],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u29622411591205",
+            "nickname": "风轻云淡",
+            "userimage": "http://tx2.douguo.net/upload/photo/3/f/f/70_3fdaef9c148f59e2e6835fb3d353efaf.jpg"
+          },
+          {
+            "createtime": "2016-10-06 23:23:56",
+            "content": "不错！黄很多，就是肉少了点",
+            "title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+            "img": [
+              "http://i1.douguo.net//upload/tuan/0/3/7/032ffbb16a93f7f1525e36c85d8fbdd7.jpg",
+              "http://i1.douguo.net//upload/tuan/3/3/e/332c64ffb09b42b9258bfcbeb2dc7dbe.jpg",
+              "http://i1.douguo.net//upload/tuan/3/a/5/3a201ac4a2184eac3c1119731ebe62d5.jpg"
+            ],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u75480919987494",
+            "nickname": "Juneijzm",
+            "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+          },
+          {
+            "createtime": "2016-10-06 11:45:22",
+            "content": "好划算，个头也大",
+            "title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+            "img": [],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u38108076389354",
+            "nickname": "未来，我在。。。。",
+            "userimage": "http://tx2.douguo.net/upload/photo/7/6/4/70_u38108076389354221514.jpg"
+          },
+          {
+            "createtime": "2016-10-04 12:42:34",
+            "content": "都是活的哟，买了很多次了，很满意，很好",
+            "title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+            "img": [],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u15864495525083",
+            "nickname": "燕南飞707",
+            "userimage": "http://tx2.douguo.net/upload/photo/3/8/7/70_u15864495525083101656.jpg"
+          },
+          {
+            "createtime": "2016-10-04 00:28:21",
+            "content": "很好，都活着，味道也很好，家里人都说优惠",
+            "title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+            "img": [],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u5922335184987",
+            "nickname": "莎莎同同",
+            "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+          },
+          {
+            "createtime": "2016-08-01 12:22:40",
+            "content": "好",
+            "title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+            "img": [],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u42846459648615",
+            "nickname": "小叮当来了",
+            "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+          },
+          {
+            "createtime": "2016-07-27 12:56:21",
+            "content": "好评",
+            "title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+            "img": [],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u14834599758164",
+            "nickname": "食之旺",
+            "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+          },
+          {
+            "createtime": "2016-06-03 22:31:37",
+            "content": "好评",
+            "title": "现货 阳澄湖九百亩大闸蟹礼盒鲜活螃蟹母2.6-2.3两8只",
+            "img": [],
+            "scoreName": "好评",
+            "listclass": null,
+            "username": "u76185091460566",
+            "nickname": "Luviagelita丶",
+            "userimage": "http://tx2.douguo.net/upload/photo/d/e/3/70_u76185091460566220455.jpg"
+          }
+        ]
+      }
+      },
+      {
+        "store": {
+          "id": "4158111",
+          "name": "淘食帮专营店",
+          "intro": "用美食改变生活！",
+          "image": "http://i1.douguo.net//upload/tuan/7/6/3/140_76992028d1c4b57a4a3fb0d64bd4c583.jpg"
+        },
+        "score": {
+          "total": 1798,
+          "gRate": 99
+        },
+        "basic": {
+          "id": "752",
+          "image": "http://i1.douguo.net/upload/tuan/8/d/a/300_8d02955e7e5c4d616fce3c533e6aaffa.jpg",
+          "name": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+          "price": 118,
+          "ori_price": 138,
+          "express_fee": -0.01,
+          "all_sale_count": 5073,
+          "sale_count": 21,
+          "flag": 1,
+          "unit": "份",
+          "limit": "0",
+          "surplus_stock": 479
+        },
+        "store_status": {
+          "store_id": "4158111",
+          "goods_num": "0",
+          "comment_num": "0",
+          "express_average": "46",
+          "deliver_average": "47",
+          "service_average": "47",
+          "express_num": "3531",
+          "deliver_num": "3517",
+          "service_num": "3459"
+        },
+        "total_goods_num": "15",
+        "comments":{
+          "score": "3",
+          "total": 1789,
+          "list": [
+            {
+              "createtime": "2016-10-12 17:35:58",
+              "content": "好评",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u75939829373284",
+              "nickname": "玲珑么么哒",
+              "userimage": "http://tx2.douguo.net/upload/photo/c/3/7/70_u75939829373284145920.jpg"
+            },
+            {
+              "createtime": "2016-10-12 15:13:12",
+              "content": "还可以，就是买了没几天就降价了",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u56223782469672",
+              "nickname": "桐桐蒙蒙",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-12 10:40:36",
+              "content": "包装很好！还没做",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u25396631158957",
+              "nickname": "吃鱼的猫咪",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-12 10:23:32",
+              "content": "看着颜色和以前买的不太一样，希望口味美味吧",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/8/4/8/84e05b77d1e03a912678b18e106f58d8.jpeg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u6204961361958",
+              "nickname": "蔷薇36",
+              "userimage": "http://tx2.douguo.net/upload/photo/4/a/7/70_u6204961361958223011.jpg"
+            },
+            {
+              "createtime": "2016-10-11 23:03:11",
+              "content": "好多次了，儿子喜欢吃",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u73578688667014",
+              "nickname": "妞儿〰笑个",
+              "userimage": "http://tx2.douguo.net/upload/photo/6/8/8/70_u73578688667014202800.jpg"
+            },
+            {
+              "createtime": "2016-10-11 10:19:40",
+              "content": "挺好的",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u83126092207283",
+              "nickname": "独孤云",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-11 06:59:45",
+              "content": "好评",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u84381414720552",
+              "nickname": "桐桦",
+              "userimage": "http://tx2.douguo.net/upload/photo/5/b/2/70_u84381414720552211842.jpg"
+            },
+            {
+              "createtime": "2016-10-10 23:15:36",
+              "content": "超级美味的牛排，量足，肉质很鲜美！光吃了，忘记拍照了",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u75982917936929",
+              "nickname": "心情窝窝",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-10 22:25:07",
+              "content": "好评",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u38051396390821",
+              "nickname": "豆粉0513969",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-10 11:55:22",
+              "content": "看着不错，到货也挺快，吃过再评价",
+              "title": "特级牛排套餐8份装 配进口黄油 酱包 刀叉2套 顺丰包邮",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/1/8/c/1855bc1adf1f03cc236ef21515fcc64c.jpeg",
+                "http://i1.douguo.net//upload/tuan/3/1/d/318ef81bd2a2275aa0ea6abcc0fcb87d.jpeg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u7580983014643",
+              "nickname": "18842344191",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "store": {
+        "id": "9659976",
+        "name": "欣和官方旗舰店",
+        "intro": "传承中华美食，生产原汁原味的原酿调味品。",
+        "image": "http://i1.douguo.net//upload/tuan/c/0/e/140_c0e91155b57b61e4264af185a427cf7e.jpg"
+      },
+        "score": {
+          "total": 7,
+          "gRate": 100
+        },
+        "basic": {
+          "id": "6315",
+          "image": "http://i1.douguo.net/upload/tuan/6/3/6/300_63c77dd1b50313a2d09b2b03f198c726.jpg",
+          "name": "【赠苹果醋248ml】欣和 醯官醋原浆苹果醋500ml*2瓶",
+          "price": 49,
+          "ori_price": 58,
+          "express_fee": -0.01,
+          "all_sale_count": 38,
+          "sale_count": 20,
+          "flag": 1,
+          "unit": "瓶",
+          "limit": "0",
+          "surplus_stock": 9980
+        },
+        "store_status": {
+          "store_id": "9659976",
+          "goods_num": "0",
+          "comment_num": "0",
+          "express_average": "48",
+          "deliver_average": "48",
+          "service_average": "48",
+          "express_num": "1457",
+          "deliver_num": "1454",
+          "service_num": "1431"
+        },
+        "total_goods_num": "54",
+        "comments":{
+          "score": "3",
+          "total": 7,
+          "list": [
+            {
+              "createtime": "2016-07-30 13:03:52",
+              "content": "好评",
+              "title": "【母亲节礼物】欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u29010695364302",
+              "nickname": "自在心安3",
+              "userimage": "http://tx2.douguo.net/upload/photo/8/8/5/70_88202b40df079edaa6da8e15b3555d65.jpg"
+            },
+            {
+              "createtime": "2016-06-15 11:52:40",
+              "content": "好评",
+              "title": "【母亲节礼物】欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u65729392201713",
+              "nickname": "wxd0508",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-06-02 19:25:44",
+              "content": "还不错，爸妈都很喜欢。",
+              "title": "【母亲节礼物】欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u1809666766340",
+              "nickname": "桔子144",
+              "userimage": "http://tx2.douguo.net/upload/photo/4/6/b/70_u1809666766340232536.jpg"
+            },
+            {
+              "createtime": "2015-10-31 14:06:18",
+              "content": "好评",
+              "title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u07622169796742",
+              "nickname": "展飞飞",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2015-10-27 22:11:30",
+              "content": "收到了包装 挺好东西也挺好的正品。",
+              "title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u25848792806410",
+              "nickname": "你是我的唯一ni",
+              "userimage": "http://tx2.douguo.net/upload/photo/a/f/4/70_u25848792806410213155.jpeg"
+            },
+            {
+              "createtime": "2015-10-24 10:19:30",
+              "content": "一直在喝这款苹果醋，之前都是在超市买，有了优惠券在豆果买比超市划算多了。加点蜂蜜冲水喝酸酸甜甜非常棒！",
+              "title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u89333438157645",
+              "nickname": "Moon.0817",
+              "userimage": "http://tx2.douguo.net/upload/photo/8/d/1/70_u89333438157645101922.jpg"
+            },
+            {
+              "createtime": "2015-09-03 16:00:38",
+              "content": "好评",
+              "title": "欣和 醯官醋 原浆苹果醋 500ml*2瓶 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u22177476406730",
+              "nickname": "兔妞罗罗",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "store": {
+          "id": "18052177",
+          "name": "利仁厨房电器",
+          "intro": "主要销售小家电厨房电器",
+          "image": "http://i1.douguo.net//upload/tuan/8/0/4/140_801f412dfefc12b57d42bce27aac2824.jpg"
+        },
+        "score": {
+          "total": 22,
+          "gRate": 95
+        },
+        "basic": {
+          "id": "20951",
+          "image": "http://i1.douguo.net/upload/tuan/e/4/3/300_e4d04cf56e88491cf5a4bd6055c9fe03.jpg",
+          "name": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+          "price": 99,
+          "ori_price": 179,
+          "express_fee": -0.01,
+          "all_sale_count": 186,
+          "sale_count": 181,
+          "flag": 1,
+          "unit": "台",
+          "limit": "0",
+          "surplus_stock": 319
+        },
+        "store_status": {
+          "store_id": "18052177",
+          "goods_num": "0",
+          "comment_num": "0",
+          "express_average": "47",
+          "deliver_average": "46",
+          "service_average": "46",
+          "express_num": "38",
+          "deliver_num": "37",
+          "service_num": "36"
+        },
+        "total_goods_num": "30",
+        "comments":{
+          "score": "3",
+          "total": 21,
+          "list": [
+            {
+              "createtime": "2016-10-11 11:25:37",
+              "content": "太好了，而且不粘锅，特意试过才来评价",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/5/d/3/5d45c3f4e4f2832b7a35dfe6af94fe93.jpeg",
+                "http://i1.douguo.net//upload/tuan/a/4/1/a46875d0e404baeed394554e67c0fcd1.jpeg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u19057569468892",
+              "nickname": "草央5",
+              "userimage": "http://tx2.douguo.net/upload/photo/d/1/f/70_u19057569468892124209.jpeg"
+            },
+            {
+              "createtime": "2016-10-09 17:23:41",
+              "content": "好评",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u14926494855095",
+              "nickname": "lukcyEUnice",
+              "userimage": "http://tx2.douguo.net/upload/photo/4/9/6/70_u14926494855095190815.jpg"
+            },
+            {
+              "createtime": "2016-10-09 11:32:18",
+              "content": "看着外观不错等我用了再来评价哈",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u72288585152126",
+              "nickname": "东北哥Henry",
+              "userimage": "http://tx2.douguo.net/upload/photo/6/6/2/70_u72288585152126170842.jpeg"
+            },
+            {
+              "createtime": "2016-10-09 02:43:14",
+              "content": "好评",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u74188462136396",
+              "nickname": "阿丹pibz",
+              "userimage": "http://tx2.douguo.net/upload/photo/5/0/f/70_u74188462136396224829.jpeg"
+            },
+            {
+              "createtime": "2016-10-09 00:36:10",
+              "content": "好评",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u61740760870759",
+              "nickname": "梓君宇童",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-08 16:47:58",
+              "content": "好评！",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u50358277211135",
+              "nickname": "卓卓越越妈",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-08 16:03:52",
+              "content": "非常棒的锅，值得购买，颜色漂亮，火力大炒菜火锅煮面都很方便！这是我用电炒锅做的红焖羊肉看着还行吧",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/9/b/a/9b6e9dec3435e405119c7776ded0daea.jpg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u20505444",
+              "nickname": "天天快乐000009",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-08 15:38:40",
+              "content": "到手试了一下很好 火力很大 不错颜色好看",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u75477294948723",
+              "nickname": "王金娥。",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-07 19:25:50",
+              "content": "拿到手之后，老妈说锅实在是有点小！！不打算要了！差点就退货了，后来一番考虑之后决定还是留下来，毕竟又能烤肉又能水煮功能挺全的，当天晚上就进行烤肉，使用心得：锅小，这个是硬伤，不知道是不是因为大小才决定价钱，优点是不粘，省油，加热快，稳定，材质看起来也还可以，一分钱一分货",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u65938314597375",
+              "nickname": "青之逗号",
+              "userimage": "http://tx2.douguo.net/upload/photo/a/e/0/70_u65938314597375191837.jpg"
+            },
+            {
+              "createtime": "2016-10-07 19:23:33",
+              "content": "还没用看着不错，就是说有食谱却没有",
+              "title": "利仁DHG-T2600F韩式多功能家用锅电火锅锅电热锅电炒锅电煮不粘锅",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u75664272141130",
+              "nickname": "rongbatianxia",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "store": {
+          "id": "18441012",
+          "name": "浪里鲜",
+          "intro": "威海产地直销海鲜，当天现捕现发，保证新鲜",
+          "image": "http://i1.douguo.net//upload/tuan/d/1/e/140_d13ca3516029f25d3cfe6a258e0839be.jpg"
+        },
+        "score": {
+          "total": 48,
+          "gRate": 91
+        },
+        "basic": {
+          "id": "20786",
+          "image": "http://i1.douguo.net/upload/tuan/2/0/2/300_20ad6391f5e65edb4828b32217eae2e2.jpg",
+          "name": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+          "price": 79.9,
+          "ori_price": 109,
+          "express_fee": 0,
+          "all_sale_count": 140,
+          "sale_count": 8,
+          "flag": 1,
+          "unit": "件",
+          "limit": "0",
+          "surplus_stock": 9992
+        },
+        "store_status": {
+          "store_id": "18441012",
+          "goods_num": "0",
+          "comment_num": "0",
+          "express_average": "48",
+          "deliver_average": "50",
+          "service_average": "50",
+          "express_num": "115",
+          "deliver_num": "115",
+          "service_num": "114"
+        },
+        "total_goods_num": "36",
+        "comments":{
+          "score": "3",
+          "total": 132,
+          "list": [
+            {
+              "createtime": "2016-10-13 08:20:47",
+              "content": "有点小，吃了几个还可以，分辨不出死活，据说死的口就开了，店家把每一个都用绳子捆住，余下的放进冰箱零度保鲜了，不知道能放多久。",
+              "title": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u67190804837252",
+              "nickname": "羊羊810405",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-12 11:43:05",
+              "content": "好评",
+              "title": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u41441729210334",
+              "nickname": "豆果粉11",
+              "userimage": "http://tx2.douguo.net/upload/photo/c/5/9/70_u41441729210334160829.jpg"
+            },
+            {
+              "createtime": "2016-10-11 18:57:30",
+              "content": "邮到之后个个都还是活的 打开之后一股腥臭回去刷刷之后味道轻了一点 总之觉得还行吧 给好评",
+              "title": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u68892281326728",
+              "nickname": "祁丶嚯嚯嚯",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-10 20:57:23",
+              "content": "很新鲜，速度也快",
+              "title": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u74364695212332",
+              "nickname": "昕航妈妈",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-10 18:34:13",
+              "content": "挺好的，北方人做起来也不难，下次再买更大的做做看，很新鲜，做了两次",
+              "title": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/8/b/d/8b85af718bd004fbfdce9783c9d5292d.jpeg",
+                "http://i1.douguo.net//upload/tuan/2/2/4/2267e64e3e8c3bde2783982750e1acb4.jpeg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u63741324108579",
+              "nickname": "米小朵朵酱",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-10 17:11:53",
+              "content": "很好!",
+              "title": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u52153378183334",
+              "nickname": "燕子qiyv",
+              "userimage": "http://tx2.douguo.net/upload/photo/6/5/2/70_u52153378183334063142.jpg"
+            },
+            {
+              "createtime": "2016-10-10 11:14:45",
+              "content": "生蚝不错，蛮新鲜的，烧了汤一级棒",
+              "title": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u28814508277997",
+              "nickname": "Daisy_Ming",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-10 07:45:49",
+              "content": "东西还是不错的，挺新鲜",
+              "title": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u36432556289693",
+              "nickname": "小K63",
+              "userimage": "http://tx2.douguo.net/upload/photo/d/4/c/70_d47d50a16880793d553120f9b03c511c.jpg"
+            },
+            {
+              "createtime": "2016-10-10 00:00:02",
+              "content": "以后会在你家回购的，生蚝都很不错，只有三个坏的，虽然不是很大，但是已经很饱满了，很开心。",
+              "title": "浪里鲜|野生带壳生蚝5斤装 现捕现发 ",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/c/5/9/c5e41aee591b57d807d318b8e0f11219.jpeg",
+                "http://i1.douguo.net//upload/tuan/5/9/3/5901cee0e54f6558d02b96fef98a55d3.jpeg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u02805225575519",
+              "nickname": "小脚脚8",
+              "userimage": "http://tx2.douguo.net/upload/photo/4/9/4/70_u02805225575519013133.jpg"
+            }
+          ]
+        }
+      },
+      {
+           "store": {
+            "id": "16861129",
+            "name": "靓禾良仓官方旗舰店",
+            "intro": " 专业经营黑龙江五常稻花香米 杂粮系列 东北特产",
+            "image": "http://i1.douguo.net//upload/tuan/3/8/5/140_38559edd69d8a813c2cdf31753fc9c45.jpg"
+          },
+          "score": {
+            "total": 129,
+            "gRate": 95
+          },
+          "basic": {
+            "id": "20733",
+            "image": "http://i1.douguo.net/upload/tuan/f/5/7/300_f58e54274e87428d050e6a909cba8267.jpg",
+            "name": "靓禾良仓 2016新米 10月出厂日期 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+            "price": 29,
+            "ori_price": 49,
+            "express_fee": 0,
+            "all_sale_count": 1698,
+            "sale_count": 55,
+            "flag": 1,
+            "unit": "袋",
+            "limit": "0",
+            "surplus_stock": 1977
+          },
+          "store_status": {
+            "store_id": "16861129",
+            "goods_num": "0",
+            "comment_num": "0",
+            "express_average": "46",
+            "deliver_average": "45",
+            "service_average": "47",
+            "express_num": "247",
+            "deliver_num": "247",
+            "service_num": "246"
+          },
+          "total_goods_num": "27",
+          "comments":{
+            "score": "3",
+            "total": 123,
+            "list": [
+              {
+                "createtime": "2016-10-13 17:51:34",
+                "content": "好评",
+                "title": "靓禾良仓 2016新米 10月出厂日期 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u37537333432523",
+                "nickname": "悠然游荡的羊汤",
+                "userimage": "http://tx2.douguo.net/upload/photo/3/e/b/70_u37537333432523113335.jpg"
+              },
+              {
+                "createtime": "2016-10-13 11:27:05",
+                "content": "好吃",
+                "title": "靓禾良仓 2016新米 10月出厂日期 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u50164700423974",
+                "nickname": "小菡宝",
+                "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+              },
+              {
+                "createtime": "2016-10-12 23:09:33",
+                "content": "好评",
+                "title": "靓禾良仓 2016新米 10月出厂日期 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u17004190412794",
+                "nickname": "小鱼儿___",
+                "userimage": "http://tx2.douguo.net/upload/photo/a/7/c/70_u17004190412794112120.jpg"
+              },
+              {
+                "createtime": "2016-10-12 17:47:29",
+                "content": "米挺想的",
+                "title": "靓禾良仓 2016新米 10月出厂日期 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u33652708490108",
+                "nickname": "只要我有7",
+                "userimage": "http://tx2.douguo.net/upload/photo/7/c/6/70_u33652708490108143701.jpg"
+              },
+              {
+                "createtime": "2016-10-12 14:44:55",
+                "content": "很好吃很香哦",
+                "title": "靓禾良仓 2016新米 10月出厂日期 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u67507528513101",
+                "nickname": "栗子姑娘哟",
+                "userimage": "http://tx2.douguo.net/upload/photo/a/9/3/70_u67507528513101085916.jpg"
+              },
+              {
+                "createtime": "2016-10-12 11:46:33",
+                "content": "不错",
+                "title": "靓禾良仓 2016新米 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u52088270623612",
+                "nickname": "可意rimh",
+                "userimage": "http://tx2.douguo.net/upload/photo/d/8/5/70_u52088270623612145037.jpg"
+              },
+              {
+                "createtime": "2016-10-12 11:26:24",
+                "content": "看着挺好的，还没吃。收到货时盒子已烂了，幸亏米的袋子没坏，要不就米洒出来了。包装不结实，亲。",
+                "title": "靓禾良仓 2016新米 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u65970311859464",
+                "nickname": "红豆米粉",
+                "userimage": "http://tx2.douguo.net/upload/photo/8/6/3/70_u65970311859464215308.jpeg"
+              },
+              {
+                "createtime": "2016-10-11 23:23:36",
+                "content": "米不算香，感觉一般吧，柔软度还不错。",
+                "title": "靓禾良仓 2016新米 正宗东北大米五常长粒香5斤装 产地直供 包邮",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u4910712837577",
+                "nickname": "阿柔cfhv",
+                "userimage": "http://tx2.douguo.net/upload/photo/9/6/4/70_u4910712837577164900.jpg"
+              }
+            ]
+          }
+        },
+      {
+          "store": {
+            "id": "16887948",
+            "name": "小熊电器官方旗舰店",
+            "intro": "小熊电器，味蕾知己，妙想美食",
+            "image": "http://i1.douguo.net//upload/tuan/c/7/b/140_c7f32b225b6bfa4852bdfab4bd7b8d4b.jpg"
+          },
+          "score": {
+            "total": 65,
+            "gRate": 96
+          },
+          "basic": {
+            "id": "20569",
+            "image": "http://i1.douguo.net/upload/tuan/2/3/3/300_2396d45010f1cc52ca325bfe6adc23e3.jpg",
+            "name": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+            "price": 139,
+            "ori_price": 179,
+            "express_fee": 0,
+            "all_sale_count": 511,
+            "sale_count": 256,
+            "flag": 1,
+            "unit": "台",
+            "limit": "0",
+            "surplus_stock": 244
+          },
+          "store_status": {
+            "store_id": "16887948",
+            "goods_num": "0",
+            "comment_num": "0",
+            "express_average": "47",
+            "deliver_average": "47",
+            "service_average": "47",
+            "express_num": "203",
+            "deliver_num": "200",
+            "service_num": "198"
+          },
+          "total_goods_num": "79",
+          "comments":{
+            "score": "3",
+            "total": 63,
+            "list": [
+              {
+                "createtime": "2016-10-13 14:39:25",
+                "content": "还不错，我很满意，好评！",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u41308267491554",
+                "nickname": "蓝色Caffine",
+                "userimage": "http://tx2.douguo.net/upload/photo/c/f/5/70_u41308267491554164931.jpg"
+              },
+              {
+                "createtime": "2016-10-13 13:01:17",
+                "content": "很赞，价格比某宝优惠了40快，很划算",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u76073447715340",
+                "nickname": "牛氓lao兔兔",
+                "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+              },
+              {
+                "createtime": "2016-10-11 22:09:10",
+                "content": "好评",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u32218890803902",
+                "nickname": "妙雨8",
+                "userimage": "http://tx2.douguo.net/upload/photo/4/1/e/70_u32218890803902080530.jpg"
+              },
+              {
+                "createtime": "2016-10-11 16:48:51",
+                "content": "好评",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u27852290",
+                "nickname": "快乐莲子粥",
+                "userimage": "http://tx2.douguo.net/upload/photo/9/b/d/70_u27852290164445.jpeg"
+              },
+              {
+                "createtime": "2016-10-11 16:48:27",
+                "content": "好评",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u27852290",
+                "nickname": "快乐莲子粥",
+                "userimage": "http://tx2.douguo.net/upload/photo/9/b/d/70_u27852290164445.jpeg"
+              },
+              {
+                "createtime": "2016-10-10 18:50:09",
+                "content": "挺好的一个产品，就是线短了，物流好快昨天发货今天到，喜欢的赶紧下手咯",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [
+                  "http://i1.douguo.net//upload/tuan/2/6/2/26396afc9ee7ca029227a0f375f8d092.jpg",
+                  "http://i1.douguo.net//upload/tuan/f/7/c/f79969183a794a0ed37d54cd152c9d5c.jpg"
+                ],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u74728159629771",
+                "nickname": "　 　萌大统领❉",
+                "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+              },
+              {
+                "createtime": "2016-10-10 17:28:09",
+                "content": "非常漂亮，还没使用，应该很不错",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u75074993810130",
+                "nickname": "木头马尾520",
+                "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+              },
+              {
+                "createtime": "2016-10-10 07:57:41",
+                "content": "颜色很漂亮，做工挺精致，还没用，今天会试用的，感觉棒棒哒",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u29956184609952",
+                "nickname": "丫丫726",
+                "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+              },
+              {
+                "createtime": "2016-10-09 18:51:24",
+                "content": "回家马上试了银儿，我是那种大朵的，一个半小时还是不够火候，但是看着这么没，满满一碗下肚",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [
+                  "http://i1.douguo.net//upload/tuan/2/f/9/2f94b4fca155eede9a11f64cb5e7c9a9.jpg",
+                  "http://i1.douguo.net//upload/tuan/d/3/f/d380a3dafdc28f91246a7e0985ab6e6f.jpg"
+                ],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u74123926577813",
+                "nickname": "妞妞乐呵呵",
+                "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+              },
+              {
+                "createtime": "2016-10-09 07:42:18",
+                "content": "这个壶真的很好用，试着熬了红豆薏米汤和小米燕麦粥。味道很不错。外观也是那么的美。我很喜欢。希望能一直用下去。",
+                "title": "小熊养生壶｜玻璃壶身 旋转控制 1.5升 YSH-A15E1",
+                "img": [],
+                "scoreName": "好评",
+                "listclass": null,
+                "username": "u28144366612813",
+                "nickname": "苏绿xy",
+                "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+              }
+            ]
+          }
+      },
+      {
+        "store": {
+          "id": "18441012",
+          "name": "浪里鲜",
+          "intro": "威海产地直销海鲜，当天现捕现发，保证新鲜",
+          "image": "http://i1.douguo.net//upload/tuan/d/1/e/140_d13ca3516029f25d3cfe6a258e0839be.jpg"
+        },
+        "score": {
+          "total": 19,
+          "gRate": 84
+        },
+        "basic": {
+          "id": "20893",
+          "image": "http://i1.douguo.net/upload/tuan/4/b/0/300_4b7c6a8e44235ea241460df0e95ccd70.jpg",
+          "name": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+          "price": 39.9,
+          "ori_price": 69.9,
+          "express_fee": 0,
+          "all_sale_count": 55,
+          "sale_count": 6,
+          "flag": 1,
+          "unit": "件",
+          "limit": "0",
+          "surplus_stock": 994
+        },
+        "store_status": {
+          "store_id": "18441012",
+          "goods_num": "0",
+          "comment_num": "0",
+          "express_average": "48",
+          "deliver_average": "50",
+          "service_average": "50",
+          "express_num": "115",
+          "deliver_num": "115",
+          "service_num": "114"
+        },
+        "total_goods_num": "36",
+        "comments":{
+          "score": "3",
+          "total": 16,
+          "list": [
+            {
+              "createtime": "2016-10-12 20:18:55",
+              "content": "个头不大，但是味道还可以。",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u46028921633771",
+              "nickname": "婷儿777",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-12 09:43:10",
+              "content": "还不错 比在市场买的脆 有味道 大小还好吧 中等吧 手提了一下感觉很轻 也没有去刻意称重 选择相信商家",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u49395678385084",
+              "nickname": "肥肥猫314913",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-09 21:55:31",
+              "content": "很甜……个头也大……",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/9/1/4/91b47e098437b8bdc54452b764b0c4e4.jpeg",
+                "http://i1.douguo.net//upload/tuan/d/b/e/dbd37d94e958c1eb1dfd288668c5b91e.jpeg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u73130466581996",
+              "nickname": "胡雅驰",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-09 14:23:44",
+              "content": "很满意，很新鲜",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u72644011782940",
+              "nickname": "香草蓝",
+              "userimage": "http://tx2.douguo.net/upload/photo/8/d/3/70_u72644011782940130636.jpeg"
+            },
+            {
+              "createtime": "2016-10-09 14:18:22",
+              "content": "很不错",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u73816852351493",
+              "nickname": "繁雨",
+              "userimage": "http://tx2.douguo.net/upload/photo/1/e/0/70_u73816852351493142615.jpeg"
+            },
+            {
+              "createtime": "2016-10-09 14:13:06",
+              "content": "不错，收到货的时候没有坏的，都很好，而且很好吃，挺新鲜的",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u73912040658058",
+              "nickname": "七七0926",
+              "userimage": "http://tx2.douguo.net/upload/photo/b/0/a/70_u73912040658058120112.jpeg"
+            },
+            {
+              "createtime": "2016-10-09 14:05:44",
+              "content": "好吃，脆甜，很不错",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u73915310188048",
+              "nickname": "昊天79",
+              "userimage": "http://tx2.douguo.net/upload/photo/2/c/1/70_u73915310188048125558.jpeg"
+            },
+            {
+              "createtime": "2016-10-09 13:50:57",
+              "content": "枣子香脆可口，好吃，很新鲜",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [
+                "http://i1.douguo.net//upload/tuan/e/8/7/e8954b890d19609fe1fae11e6d585b07.jpeg"
+              ],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u74161803425869",
+              "nickname": "嫣然630",
+              "userimage": "http://tx2.douguo.net/upload/photo/6/d/b/70_u74161803425869092343.jpeg"
+            },
+            {
+              "createtime": "2016-10-07 14:40:03",
+              "content": "发货很快，特别的甜和脆，下次一定继续购买，推荐！",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u44750087520027",
+              "nickname": "文绍",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            },
+            {
+              "createtime": "2016-10-07 10:21:26",
+              "content": "好评",
+              "title": "浪里鲜|山东沾化 冬枣 5斤装 产地直销现摘现发",
+              "img": [],
+              "scoreName": "好评",
+              "listclass": null,
+              "username": "u49018051138944",
+              "nickname": "刚刚111111",
+              "userimage": "http://tx2.douguo.net/static/img/70.jpg"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

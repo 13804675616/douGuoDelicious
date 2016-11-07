@@ -1,0 +1,44 @@
+
+		<!--、大框-->
+		<div class="home_comment">
+			<p class="help_top"></p>
+			<!--头部-->
+			<header>
+				评价&nbsp;
+				<a ng-click="toShowBar()" ui-sref="home.home_menu"></a>
+			</header>
+			
+			<!--评论内容-->
+			
+			<ul class="home_comMol" ng-repeat="x in data">
+				<li>
+					<dl>
+						<dt><img ng-src={{x.userimage}} /></dt>
+						<dd>{{x.nickname}}</dd>
+						<dd>{{x.createtime}}</dd>
+					</dl>
+					<p class="clearfix"></p>
+					<p>{{x.content}}</p>
+				</li>
+			</ul>
+			<ul class="home_comMol" ng-repeat="n in myArr" ng-if="arrShow">
+				<li>
+					<dl>
+						<dt><img ng-src={{n.userimage}} /></dt>
+						<dd>{{n.nickname}}</dd>
+						<dd>{{n.createtime}}</dd>
+					</dl>
+					<p class="clearfix"></p>
+					<p>{{n.content}}</p>
+				</li>
+			</ul>
+			<h1></h1>
+			
+			<div class="home_comMy">
+				<input type="text" placeholder="我想说两句" ng-model="newRelease" />
+				<span ng-click="toRelease()">发布</span>
+			</div>
+			
+			
+		</div>
+		<p class="help_bottom"></p>

@@ -1,0 +1,57 @@
+
+		<!--大框-->
+		<div class="circle_box">
+			<!--顶部  圈圈-->
+			<p class="help_top"></p>
+			<header class="circle_top">
+				<p>圈圈<a ui-sref="home"></a>
+					<a ui-sref="home.message"></a></p>
+			</header>
+
+			<!--轮播图-->
+			<div class="swiper-container Cslider">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<img src="./images/cir_banner1.png" />
+					</div>
+					<div class="swiper-slide">
+						<img src="./images/cir_banner2.png" />
+					</div>
+				</div>
+				<div class="swiper-scrollbar"></div>
+			</div>
+
+			<!--各个模块列表-->
+			<div class="circle_main" ng-repeat="x in data">
+				<dl>
+					<dt>
+						<img ng-src={{x.img}} alt="" />
+					</dt>
+					<dd>
+						<span class="circle_title">{{x.circle_title}}</span>
+						<span class="circle_onlookers">{{x.circle_onlookers}}</span>
+					</dd>
+					<dd>{{x.description}}</dd>
+				</dl>
+			</div>
+
+		</div>
+		<p class="help_bottom"></p>
+	
+	<script>
+		$(function(){
+			//轮播方法
+		function slider() {
+			var mySwiper = new Swiper('.swiper-container', {
+				autoplay: 2000, //可选选项，自动滑动
+					scrollbar: '.swiper-scrollbar',
+					scrollbarHide: false,
+					onAutoplayStop: function(swiper) {
+						swiper.startAutoplay();
+					}
+			});
+		}
+		slider();
+		})
+	</script>
+

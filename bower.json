@@ -1,0 +1,23 @@
+{
+  "name": "09_component",
+  "authors": [
+    "yupengyp@gmail.com <yupengyp@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-css": "^1.0.8",
+    "angular-route": "^1.5.8",
+    "angular-ui-router": "^0.3.1"
+  }
+}
